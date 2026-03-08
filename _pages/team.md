@@ -16,12 +16,12 @@ I have supervised and co-supervised students at various universities and continu
 
 
 ## **Current team**
-
+<br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
-D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
-[[paper]](https://arxiv.org/abs/2008.05404) [[website]](https://danfergo.github.io/geltip/) [[STL files]](https://danfergo.github.io/geltip/geltip2020_parts.zip)
-
+Xiao Ji  <br />
+Mrs  Bsc <br />
+[[website]](https://danfergo.github.io/geltip/)
+<br />
 
 
 ### University of Exeter:
