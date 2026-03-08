@@ -34,13 +34,13 @@ ON THIS PAGE
 <h2 id="y2026">2026</h2>
 
 
-[1]. Xiao Jin, Ge Gao, Ravi Vaidyanathan, Peter Childs, <b><u>Zhenhua Yu</u></b>. “Human-in-the-loop Capacitive Microphone Sensors-Based Muscle Sensing System for Predictive and Adaptive Exoskeleton Assistance”. in IEEE Robotics and Automation Letters (RA-L,Q1) (2026).
+[1]. Xiao Jin, Ge Gao, Ravi Vaidyanathan, Peter Childs, <b><u>Zhenhua Yu*</u></b>. “Human-in-the-loop Capacitive Microphone Sensors-Based Muscle Sensing System for Predictive and Adaptive Exoskeleton Assistance”. in IEEE Robotics and Automation Letters (RA-L,Q1) (2026).
 
 
 <h2 id="y2025">2025</h2>
 
 
-[7] Xiao Jin,<b><u>Zhenhua Yu</u></b>, Thrishantha Nanayakkara . “Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection”. IEEE Sensors Journal, (2025).
+[7] Xiao Jin,<b><u>Zhenhua Yu*</u></b>, Thrishantha Nanayakkara . “Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection”. IEEE Sensors Journal, (2025).
 
 [6]. Wenbo Zhang, Zhihui Wang, Xiaoqing Yuan, <b><u>Zhenhua Yu</u></b> , Wendong Wang. “Human-in-the-loop target location detection method based on the region of interest in multi-object scenes,” in Signal, Image and Video Processing, vol. 16,Dec.15, 2025.
 
@@ -101,6 +101,7 @@ ON THIS PAGE
 [2].Ying Chen, Zhen He, Ding Zhou, <b><u>Zhenhua Yu</u></b> , Shunli Li, “Integrated guidance and control for microsatellite real-time automated proximity operations”, Acta Astronautica, 2018.
 
 [1].Baolong Zhu, Zhiping Zhang, Mingliang Suo, <b><u>Zhenhua Yu</u></b> , Shunli Li, “Sampled-data H∞control for attitude stabilization and vibration suppression of flexible spacecrafts”, IEEE 2017 36th Chinese Control Conference (CCC), 2017.
+
 
 
 
