@@ -80,6 +80,50 @@ Research interests include soft robotics and multimodal perception for intellige
 <a href="https://danfergo.github.io/geltip/">Website</a>
 </div>
 
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Yixian Fan</b><br>
+University of Aberdeen<br>
+<p style="font-size:14px;">
+Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+</p>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
+
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Yixuan Ye</b><br>
+University of Aberdeen<br>
+<p style="font-size:14px;">
+Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+</p>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
+
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Zhuofan Li</b><br>
+University of Aberdeen<br>
+<p style="font-size:14px;">
+Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+</p>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
+
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Siqi Ding</b><br>
+University of Aberdeen<br>
+<p style="font-size:14px;">
+Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+</p>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
+
 </div>
 
 ## **Alumni**
@@ -93,8 +137,7 @@ I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.
   
   - [Zehao Liu](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (PhD student)
     
-    - Topic: Visual Scene Understanding and Tracking from Traffic Cameras
-    - Now a Research Engineer at Bosch Research
+
   
   - [Shibo Jing](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (PhD student)
     
@@ -110,6 +153,6 @@ I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.
 
 - BSc students
 
-	- Toby Shelford (2024 - 2025, BSc)
+	- Yang Zhang (2023 - 2024, BSc)
 
-	- Zihan Wang (2024 - 2025, BSc)
+	- Yixuan Xie (2023 - 2024, BSc)
