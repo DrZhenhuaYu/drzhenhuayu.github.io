@@ -6,45 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Service at the University of Exeter**
+**Service at the University of Aberdeen**
 
-- Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Exeter
-
-**Service at other organizations**
-
-- Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
-- Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
-
-**Organizer for Conferences**
-
-- Program Committee Member, Chinese Conference on Information Fusion, 2025
-
-**Organizer for Workshops**
-
-- Organizer, ICRA2026 Workshop: Workshop on Pedestrian Behavior Prediction. [[Workshop website]](https://workshop-pbp2026.github.io/)
-
-- Lead organizer, BMVC2025 Workshop: "DIFA: Deep Learning-based Information Fusion and Its Applications"  [[workshop website]](https://difa2025-bmvc.github.io/)
-
-- Organizer, Exeter Computer Vision Workshop: PhD Research Talks
-
-- Organizer, The 1st Exeter Computer Vision Workshop
-
-- Lead organizer, BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
-
-
-**Editorial boards**
-
-- Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
-
-- Youth Editorial Board Member, Chinese Journal of Aeronautics [[Details]](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics)
-
-- Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
-
-- Guest Editor, Electronics [[Details]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
-
-- Guest Associate Editor, Frontiers in Neurorobotics [[Details]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
-
-- Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
+- Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Aberdeen
 
 
 **Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
@@ -62,91 +26,51 @@ author_profile: true
 
 **Reviewer for journals (Selected)**
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-- International Journal of Computer Vision    
-
-- IEEE Transactions on Image Processing
-
-- IEEE Transactions on Neural Networks and Learning Systems
-
-- IEEE Transactions on Artificial Intelligence
-
-- IEEE Transactions on Intelligent Transportation Systems 
-
+- IEEE/ASME Trans. on Mechatronics,
+  
+- - IEEE Robotics and Automation Letters
+  
+- IEEE Transactions on Automation Science and Engineering,
+- 
+- IEEE Transactions on Industrial Informatics
+- 
 - IEEE Transactions on Instrumentation & Measurement
 
-- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Trans. on Control Systems Technology,
 
-- IEEE Transactions on Multimedia
-
-- IEEE Transactions on Industrial Informatics
-
-- IEEE Robotics and Automation Letters
-
-- IEEE/CAA Journal of Automatica Sinica
-
-- IEEE Signal Processing Letters
-
-- IEEE Multimedia 
-
-- Information Fusion
-
-- Pattern Recognition
-
-- Pattern Recognition Letters
-
-- Neurocomputing
-
-- Transportation Research Part C
+- Control Engineering Practice,
+  
+- Mechatronics,
+  
+- Transportation Research Part C,
+  
+- International Journal of Intelligent Robotics and Applications,
+- 
 
 
 **Reviewer for conferences (Selected)**
 
-
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-
-- International Conference on Computer Vision (ICCV) 
-
-- European Conference on Computer Vision (ECCV) 
-
-- Conference on Neural Information Processing Systems (NeurIPS) 
-
-- ICLR
-
-- AAAI Conference on Artificial Intelligence (AAAI)
-
-- The British Machine Vision Conference (BMVC)
-
+- International Conference on Robotics: Science and Systems (RSS).
+- 
 - International Conference on Robotics and Automation (ICRA) 
 
-- International Conference on Intelligent Robots and Systems (IROS) 
-
-- International Conference on Pattern Recognition (ICPR)
-
-- International Conference on Information Fusion (Fusion)
-
-- NeurIPS 2022 Workshop: AI for Science: Progress and Promises
-
-
+- International Conference on Intelligent Robots and Systems (IROS)
+  
+- nternational Conference on Soft Robotics (RoboSoft).
+  
+- EEE/ASME International Conference Advanced Intelligent Mechatronics (AIM),
+  
+- IEEE International Conference on Automation Science and Engineering (CASE),
+  
+- IEEE International Conference on Intelligent Transportation Systems (ITSC)
+  
+  
 **Professional membership**
 
 - Member, IEEE
 
-- Member, IET
-
-- Member, BCS
-
-- Member, BMVA
-
-- Member, Marie Curie Alumni Association
-
-- Founding Member, Marie Curie Alumni Association Artificial Intelligence Working Group
-
-- Member, China Society of Image and Graphics
-
 - Member, Chinese Association for Artificial Intelligence
 
-- Member, Information Fusion Division, Chinese Society of Aeronautics and Astronautics
+
 
 
