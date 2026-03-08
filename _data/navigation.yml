@@ -1,0 +1,29 @@
+# main links links
+main:
+    
+  - title: "Team"
+    url: /team/ 
+    
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/   
+
+  - title: "Teaching"
+    url: /teaching/    
+  
+  - title: "Honors"
+    url: /honors/
+
+  - title: "Services"
+    url: /services/
+
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "Opportunities"
+    url: /opportunities/
