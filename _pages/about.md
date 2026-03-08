@@ -38,8 +38,11 @@ News
 ----
 
 [11/2024]: I’m awarded Honorary Lecturer in the Medical Engineering, Department of Mechanical Engineering, Imperial College London. The association is offered in recognition of my valuable contribution to the Department of Mechanical Engineering.
+
 [11/2024]: Started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science, at the University of Aberdeen.
+
 [03/2023]: Started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
+
 [02/2019]:: Started my PhD research in Robotics & Artificial Intelligence in the Dyson School of Design Engineering at Imperial College London, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
 
 
