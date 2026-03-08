@@ -9,7 +9,7 @@ author_profile: true
 Vision
 ----
 
-My Fusion Intelligence Laboratory aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+My Laboratory aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 
 Research areas
