@@ -9,19 +9,17 @@ author_profile: true
 Vision
 ----
 
-My Laboratory aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
-
+My Interlligent Robotics Laboratory aims to **use Robotics and AI to benefit humanity.**
 
 Research areas
 ----
-My research aims to use machine intelligence and multi-source information fusion to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection. Specifically, my research areas include
+The aim of our research group is to develop hybrid intelligent robotics and wearable device systems that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization. 
 
-- **Multimodal Learning and Image Fusion**. Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.  
-- **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
-- **Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
-- **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.  
-- **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
-
+My research aims to **use Robotics and AI to benefit humanity.** to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection, due to the urgent need for advanced bioelectronic devices that support decentralized and personalized healthcare. 
+These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware.  To strengthen its global leadership and ensure continued competitiveness in biomechatronics, t
+- Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
+- Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
+- Embedded AI and robotics perception and navigation in human-centric digital healthcare
 
 Some funded projects
 ----
