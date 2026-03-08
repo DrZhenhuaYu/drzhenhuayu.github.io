@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Xingchen Zhang"
+title                    : "Dr. Zhenhua Yu"
 title_separator          : "-"
-name                     : "Xingchen Zhang"
-description              :  "Senior Lecturer in Computer Vision and Artificial Intelligence at University of Exeter"
-url                      : https://xingchenzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Dr. Zhenhua Yu"
+description              :  "Assistant Professor in Dept. CS @University of Aberdeen | Honorary Lecturer @ICL | PhD @ ICL | Robotics and AI for digital healthcare"
+url                      : https://drzhenhuayu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xingchenzhang/xingchenzhang.github.io"
+repository               : "drzhenhuayu/drzhenhuayu.github.io"
 teaser                   : "bg.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
