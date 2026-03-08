@@ -10,9 +10,10 @@ redirect_from:
 
 ### Bio
 
-Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the Department of Computer Science, University of Aberdeen, UK. Dr Zhenhua Yu is also an honorary Lecturer in the Medical Engineering, Department of Mechanical Engineering, Imperial College London. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
-Before Dr Zhenhua Yu joined the University of Aberdeen, I worked Dr  a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
+Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the Department of Computer Science, University of Aberdeen, UK. Dr Zhenhua Yu is also an honorary Lecturer in the Medical Engineering Department of Mechanical Engineering, Imperial College London. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
+Before Dr Zhenhua Yu joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+
 Email: Zhenhua.yu@abdn.ac.uk
 
 Research interests
@@ -27,7 +28,7 @@ These devices include wearable healthcare technologies, minimally invasive biose
 
 To know more about my research, please go to the  '[Research](https://drzhenhuayu.github.io//research/)' section.
 
-**Joining my Fusion Intelligence Laboratory**
+**Joining my Intelligent Robotics Laboratory**
 -------
 
 I am always looking for self-motivated PhD students. If you're interested in joining my Intelligence Robotics Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://drzhenhuayu.github.io/opportunities/)' section.  
@@ -37,7 +38,7 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 News
 ----
 
-[11/2024]: I’m awarded Honorary Lecturer in the Medical Engineering, Department of Mechanical Engineering, Imperial College London. The association is offered in recognition of my valuable contribution to the Department of Mechanical Engineering.
+[11/2024]: I’m awarded Honorary Lecturer in the Medical Engineering Department of Mechanical Engineering, Imperial College London. The association is offered in recognition of my valuable contribution to the Department of Mechanical Engineering.
 
 [11/2024]: Started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science, at the University of Aberdeen.
 
