@@ -10,8 +10,6 @@ author_profile: true
 
 I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
 
-- I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in 2025 in the University of Exeter.
-
 - I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**.
 
 
