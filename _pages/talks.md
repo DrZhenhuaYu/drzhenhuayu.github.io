@@ -17,3 +17,8 @@ author_profile: true
 - Division of Integrative Systems and Design, Hong Kong University of Science and Technology Nov, 2023
 - Physical reservoir computing for Mobile Robot Environment Perception and Navigation, Invited talk on Department of Computer Science, Shandong Universty Sep, 2023
 - Invited talk on 2nd International Conference on Embodied Intelligence 2022
+
+<script type="text/javascript" id="clustrmaps"
+style="display:none;"
+src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
+</script>
