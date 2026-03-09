@@ -49,4 +49,8 @@ I am open to hosting visiting PhD students. If you are interested in joining my 
 More details about the fees can be found [here](https://www.exeter.ac.uk/students/finance/studentfees/otherfees/).
 
 
-
+<div style="display:none;">
+<script type="text/javascript" id="clustrmaps"
+src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
+</script>
+</div>
