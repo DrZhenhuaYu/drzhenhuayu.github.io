@@ -35,7 +35,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 
 
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Zheng Ma.jpg" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Zheng Ma.JPG" alt="...">
 
 <b>Zheng Ma</b><br />
 BSc Student<br />
@@ -81,7 +81,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
@@ -93,7 +93,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Working on wearable sensing systems and AI-enabled healthcare monitoring.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
@@ -105,7 +105,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research interests include soft robotics and multimodal perception for intelligent systems.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
@@ -117,19 +117,19 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ye Yixuan.jpg">
+<img width="180" src="{{ site.url }}/images/people/Ye Yixuan.JPG">
 <br>
 <b>Yixuan Ye</b><br>
 University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
@@ -141,7 +141,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
@@ -153,7 +153,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
 <a href="mailto:example@abdn.ac.uk">Email</a>
 </div>
 
