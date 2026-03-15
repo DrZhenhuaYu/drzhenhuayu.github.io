@@ -86,7 +86,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Boyang Zhao</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:francis20060728@gmail.com">Email</a>
   </div>
 
@@ -96,7 +96,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Zefeng Yuan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:z.yuan1.24@abdn.ac.uk">Email</a>
   </div>
 
@@ -106,7 +106,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Qinghao Yan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:u01qy24@abdn.ac.uk">Email</a>
   </div>
 
@@ -116,7 +116,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Yixian Fan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:fyxfyxals@qq.com">Email</a>
   </div>
 
@@ -126,7 +126,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Yixuan Ye</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:y.ye.24@abdn.ac.uk">Email</a>
   </div>
 
@@ -136,7 +136,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Zhuofan Li</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:1439614452@qq.com">Email</a>
   </div>
 
@@ -146,7 +146,7 @@ I have supervised and co-supervised students at various universities and continu
       <b>Siqi Ding</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <div style="height:8px;"></div>
     <a href="mailto:1526041942@qq.com">Email</a>
   </div>
 
