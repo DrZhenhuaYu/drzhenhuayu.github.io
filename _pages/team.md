@@ -25,7 +25,7 @@ BSc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
 
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
 <a href="mailto:example@abdn.ac.uk">Email</a>
 
 <br clear="left"/>
@@ -44,7 +44,7 @@ BSc Student<br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
 
-<a href="https://drzhenhuayu.github.io/">Website</a> |
+<<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
 
 <br clear="left"/>
@@ -71,92 +71,94 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 
 <br />
 ## **Research Assistant**
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; text-align: center;">
 
-<div>
-<img width="180" src="{{ site.url }}/images/people/Zhao Boyang.jpg">
-<br>
-<b>Boyang Zhao</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research focuses on tactile sensing and robotic perception for dexterous manipulation.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:40px 30px; text-align:center; align-items:start;">
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Zhao Boyang.jpg" alt="Boyang Zhao" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Boyang Zhao</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Yuan Zefeng.jpg" alt="Zefeng Yuan" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Zefeng Yuan</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Working on wearable sensing systems and AI-enabled healthcare monitoring.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Yan Qinghao.jpg" alt="Qinghao Yan" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Qinghao Yan</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research interests include soft robotics and multimodal perception for intelligent systems.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Fan Yixian.jpg" alt="Yixian Fan" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Yixian Fan</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+    </p>
+    <a href="mailto:fyxfyxals@qq.com">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Ye Yixuan.JPG" alt="Yixuan Ye" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Yixuan Ye</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Li Zhuofan.jpg" alt="Zhuofan Li" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Zhuofan Li</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="{{ site.url }}/images/people/Ding Siqi.jpg" alt="Siqi Ding" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Siqi Ding</b><br>
+      University of Aberdeen
+    </div>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
+      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+    </p>
+    <a href="mailto:example@abdn.ac.uk">Email</a>
+  </div>
+
 </div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Yuan Zefeng.jpg">
-<br>
-<b>Zefeng Yuan</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Working on wearable sensing systems and AI-enabled healthcare monitoring.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Yan Qinghao.jpg">
-<br>
-<b>Qinghao Yan</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research interests include soft robotics and multimodal perception for intelligent systems.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Fan Yixian.jpg">
-<br>
-<b>Yixian Fan</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research focuses on tactile sensing and robotic perception for dexterous manipulation.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Ye Yixuan.JPG">
-<br>
-<b>Yixuan Ye</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research focuses on tactile sensing and robotic perception for dexterous manipulation.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Li Zhuofan.jpg">
-<br>
-<b>Zhuofan Li</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research focuses on tactile sensing and robotic perception for dexterous manipulation.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
-<div>
-<img width="180" src="{{ site.url }}/images/people/Ding Siqi.jpg">
-<br>
-<b>Siqi Ding</b><br>
-University of Aberdeen<br>
-<p style="font-size:14px;">
-Research focuses on tactile sensing and robotic perception for dexterous manipulation.
-</p>
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
-<a href="mailto:example@abdn.ac.uk">Email</a>
-</div>
-
 </div>
 
 ## **Alumni**
