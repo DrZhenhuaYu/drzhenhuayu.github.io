@@ -26,7 +26,7 @@ BSc <br />
 </p>
 
 <!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
-<a href="mailto:example@abdn.ac.uk">Email</a>
+<a href="c.liu4.25@abdn.ac.uk">Email</a>
 
 <br clear="left"/>
 </div>
@@ -45,7 +45,7 @@ BSc Student<br />
 </p>
 
 <<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
+<a href="z.ma.25@abdn.ac.uk">Email</a>
 
 <br clear="left"/>
 </div>
@@ -81,9 +81,9 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="francis20060728@gmail.com">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -95,7 +95,7 @@ BSc, MSc in Imperial<br />
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
       Working on wearable sensing systems and AI-enabled healthcare monitoring.
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="z.yuan1.24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -105,9 +105,9 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research interests include soft robotics and multimodal perception for intelligent systems.
+      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="u01qy24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -117,7 +117,7 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
     <a href="mailto:fyxfyxals@qq.com">Email</a>
   </div>
@@ -129,9 +129,9 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="y.ye.24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -141,9 +141,9 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="1439614452@qq.com">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -153,9 +153,9 @@ BSc, MSc in Imperial<br />
       University of Aberdeen
     </div>
     <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
     </p>
-    <a href="mailto:example@abdn.ac.uk">Email</a>
+    <a href="1526041942@qq.com">Email</a>
   </div>
 
 </div>
