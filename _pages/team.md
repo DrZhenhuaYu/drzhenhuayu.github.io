@@ -22,7 +22,7 @@ I have supervised and co-supervised students at various universities and continu
 BSc <br />
 
 <p>
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
 
 <!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
@@ -41,7 +41,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 BSc Student<br />
 
 <p>
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
 
 <<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
@@ -58,7 +58,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 <b>Xiao Jin</b><br />
 BSc, MSc in Imperial<br />
 <p>
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
 
 <a href="https://drzhenhuayu.github.io/">Website</a> |
