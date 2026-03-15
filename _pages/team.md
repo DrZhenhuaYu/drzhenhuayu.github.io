@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 </p>
 
 <div style="text-align:center; margin:30px 0;">
-  <img src="{{ site.url }}/images/team/Lab20260315Aberdeen.jpg"
+  <img src="{{ site.url }}/images/people/Lab20260315Aberdeen.jpg"
        alt="Intelligent Robotics Laboratory"
        style="width:500px; max-width:100%; height:auto;">
 </div>
@@ -77,7 +77,7 @@ I have supervised and co-supervised students at various universities and continu
   -->
 
   <a href="https://drzhenhuayu.github.io/">Website</a> |
-  <a href="mailto:example@abdn.ac.uk">Email</a>
+  <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
 
   <br clear="left"/>
 </div>
