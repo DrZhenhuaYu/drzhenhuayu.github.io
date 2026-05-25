@@ -84,7 +84,7 @@ Mobile robots, quadruped robot, and motion capture system for navigation, trajec
 This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadruped robot, and NOKOV motion capture system for robotic navigation, trajectory acquisition, motion analysis, and embodied AI research.
 <p>
   
-<h3>3. Multimodal Intelligent Robot Sensor Fabrication Equipment</h3>
+<h3>3. Multimodal Flexible Sensor Fabrication Equipment</h3>
 <p>
 Flexible electronics encapsulation and testing equipment for wearable sensors, soft robotic sensors, and electronic skin devices. 
 </p>
@@ -94,8 +94,10 @@ Flexible electronics encapsulation and testing equipment for wearable sensors, s
        alt="Equipment3"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
-<h3>4. Multimodal Intelligent Robotics Platform</h3>
+<p>
+This platform includes the MF-MP2200 multifunctional microelectronic printer and MF-DB300 multifunctional flexible electronics printer for precision microelectronic printing, conductive material deposition, liquid metal printing, hydrogel 3D printing, stretchable circuits, and soft robotic sensor fabrication.
+<p>
+<h3>4. Flexible Sensor Encapsulation and Testing Equipment</h3>
 <p>
 Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction.
 </p>
@@ -105,8 +107,11 @@ Collaborative robotic arms and teleoperation systems for robotic manipulation, f
        alt="Equipment4"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
-<h3>5. Mobile Robotics and Motion Capture Platform</h3>
+<p>
+This platform includes the FE1000 Flexible Electronics Encapsulation Equipment and MF-FT2000 Flexible Electronics Tester for flexible device encapsulation, stretching, bending, twisting, electrical characterization, and wearable sensor reliability testing.
+<p>
+  
+<h3>5. Robot Parts Processing and Manufacturing Equipment</h3>
 <p>
 Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research.
 </p>
@@ -116,7 +121,7 @@ Mobile robots, quadruped robot, and motion capture system for navigation, trajec
        alt="Equipment5"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
+This platform includes Bambu Lab H2D FDM printers, HeyGears Reflex Turbo SLA printers, Stratasys PolyJet J35 Pro, xTool P2S 55W laser cutter, and ProPtronic plasma cleaner for robot prototyping, structural fabrication, sensor packaging, laser cutting, and surface pretreatment.
 <h3>6. Robot Test and Maintenance Equipment</h3>
 <p>
 Microelectronic printing and flexible direct-writing equipment for stretchable circuits, conductive materials, and soft sensor fabrication.
