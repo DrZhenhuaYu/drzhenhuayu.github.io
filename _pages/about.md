@@ -56,7 +56,7 @@ More news about me can be found [**here**](https://drzhenhuayu.github.io/previou
 Research Facilities
 --
 <p>
-  At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, wearable sensing, embodied intelligence, and intelligent systems.
+The laboratory is equipped with advanced multimodal robotics, flexible electronics, intelligent sensing, additive manufacturing, and AI computing platforms, supporting interdisciplinary research in robotics, wearable healthcare devices, embodied intelligence, human–robot interaction, and intelligent autonomous systems.
 </p>
 
 <h3>1. Multimodal Intelligent Robotics Platform</h3>
