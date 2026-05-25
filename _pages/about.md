@@ -56,9 +56,9 @@ Research Facilities
   At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, wearable sensing, embodied intelligence, and intelligent systems.
 </p>
 
-<h3>1. Multimodal Intelligent Robot Sensor Fabrication Equipment</h3>
+<h3>1. Multimodal Intelligent Robotics Platform</h3>
 <p>
-Flexible electronics encapsulation and testing equipment for wearable sensors, soft robotic sensors, and electronic skin devices.
+Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction. This platform includes DOBOT CRAF5AF, DOBOT CRAF10AF, and DOBOT CRAF20AF force-control collaborative robots, DOBOT X-Trainer dual-arm teleoperation robot, AgileX PiPERL light robotic arms, and Realman RM75-B-V / RM75-6F-V 6-axis robotic arms for robotic manipulation, teleoperation, force control, and human–robot interaction research.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -66,10 +66,12 @@ Flexible electronics encapsulation and testing equipment for wearable sensors, s
        alt="Equipment1"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
-<h3>2. Robot Parts Processing and Manufacturing</h3>
 <p>
-Rapid prototyping and manufacturing tools for robot parts, sensor packaging, structural components, and experimental fixtures.
+This platform includes DOBOT CRAF5AF, DOBOT CRAF10AF, and DOBOT CRAF20AF force-control collaborative robots, DOBOT X-Trainer dual-arm teleoperation robot, AgileX PiPERL light robotic arms, and Realman RM75-B-V / RM75-6F-V 6-axis robotic arms for robotic manipulation, teleoperation, force control, and human–robot interaction research.
+</p>
+<h3>2. Mobile Robotics and Motion Capture Platform</h3>
+<p>
+Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research. This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadruped robot, and NOKOV motion capture system for robotic navigation, trajectory acquisition, motion analysis, and embodied AI research.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -78,7 +80,7 @@ Rapid prototyping and manufacturing tools for robot parts, sensor packaging, str
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
 
-<h3>3. Robot Design and Maintenance Equipment</h3>
+<h3>3. Multimodal Intelligent Robot Sensor Fabrication Equipment</h3>
 <p>
 Electronic testing instruments for sensor signal measurement, circuit debugging, power supply, and robot hardware maintenance.
 </p>
