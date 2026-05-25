@@ -57,7 +57,7 @@ Research Facilities
 </p>
 
 <div style="text-align:center; margin:30px 0;">
-  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Euuipment1.png"
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment1.png"
        alt="Intelligent Robotics Laboratory"
        style="width:500px; max-width:100%; height:auto;">
 </div>
