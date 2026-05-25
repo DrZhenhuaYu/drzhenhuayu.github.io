@@ -49,6 +49,22 @@ News
 
 More news about me can be found [**here**](https://drzhenhuayu.github.io/previous_news/).
 
+
+Research Facilities
+--
+<p>
+  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+</p>
+
+<div style="text-align:center; margin:30px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Euuipment1.png"
+       alt="Intelligent Robotics Laboratory"
+       style="width:500px; max-width:100%; height:auto;">
+</div>
+<p>
+  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+</p>
+
 Selected funders
 --
 
