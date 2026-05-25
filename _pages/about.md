@@ -53,17 +53,85 @@ More news about me can be found [**here**](https://drzhenhuayu.github.io/previou
 Research Facilities
 --
 <p>
-  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+  At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, wearable sensing, embodied intelligence, and intelligent systems.
 </p>
 
-<div style="text-align:center; margin:30px 0;">
-  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment1.png"
-       alt="Intelligent Robotics Laboratory"
-       style="width:500px; max-width:100%; height:auto;">
-</div>
+<h3>1. Multimodal Intelligent Robot Sensor Fabrication Equipment</h3>
 <p>
-  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+Flexible electronics encapsulation and testing equipment for wearable sensors, soft robotic sensors, and electronic skin devices.
 </p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment1.png"
+       alt="Equipment1"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>2. Robot Parts Processing and Manufacturing</h3>
+<p>
+Rapid prototyping and manufacturing tools for robot parts, sensor packaging, structural components, and experimental fixtures.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment2.png"
+       alt="Equipment2"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>3. Robot Design and Maintenance Equipment</h3>
+<p>
+Electronic testing instruments for sensor signal measurement, circuit debugging, power supply, and robot hardware maintenance.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment3.png"
+       alt="Equipment3"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>4. Multimodal Intelligent Robotics Platform</h3>
+<p>
+Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment4.png"
+       alt="Equipment4"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>5. Mobile Robotics and Motion Capture Platform</h3>
+<p>
+Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment5.png"
+       alt="Equipment5"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>6. Flexible Electronics Printing Platform</h3>
+<p>
+Microelectronic printing and flexible direct-writing equipment for stretchable circuits, conductive materials, and soft sensor fabrication.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment6.png"
+       alt="Equipment6"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
+
+<h3>7. AI Computing Workstation with Dual RTX 5090 GPUs</h3>
+<p>
+High-performance AI computing workstation for deep learning, multimodal perception, robotics intelligence, and large-scale AI model training.
+</p>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment7.png"
+       alt="Equipment7"
+       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
+</div>
 
 Selected funders
 --
@@ -78,20 +146,18 @@ My research has received funding and support from several funders, including the
   <div style="display: flex; justify-content: center; margin-top: 10px;">
     <img src="/images/funders/quex.png" alt="image1" style="height:90px; width:auto;">
   </div>
-</div> -->
+</div> 
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
 </div>
+-->
 
 Selected collaborators
 --
 
 I have been fortunate to collaborate with a range of internal and external partners. Some of my external collaborators are shown in the figure below.
 
-<div style="display: flex; justify-content: center;">
-  <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
-</div>
 
 Contact
 -------
