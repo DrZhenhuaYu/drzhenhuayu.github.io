@@ -99,7 +99,7 @@ This platform includes the MF-MP2200 multifunctional microelectronic printer and
 <p>
 <h3>4. Flexible Sensor Encapsulation and Testing Equipment</h3>
 <p>
-Flexible sensor encapsulation, mechanical reliability testing, and real-time electrical characterization for wearable and soft robotic devices.
+Flexible sensor encapsulation, mechanical reliability testing, and real-time electrical characterisation for wearable and soft robotic devices.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -133,18 +133,11 @@ Microelectronic printing and flexible direct-writing equipment for stretchable c
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
 <p>
-This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6012X-E signal generator, Siglent SDM4065A-SC digital multimeter, Siglent SPS5044X programmable power supply, and Siglent SVA1015X spectrum analyzer for circuit testing, signal analysis, debugging, and robotic hardware maintenance.
+This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6012X-E signal generator, Siglent SDM4065A-SC digital multimeter, Siglent SPS5044X programmable power supply, and Siglent SVA1015X spectrum analyser for circuit testing, signal analysis, debugging, and robotic hardware maintenance.
 <p>
-<h3>7. AI Computing Workstation with Dual RTX 5090 GPUs</h3>
 <p>
-High-performance AI computing workstation for deep learning, multimodal perception, robotics intelligence, and large-scale AI model training.
+The laboratory is equipped with high-performance AI computing workstations featuring dual RTX 5090 32 GB GPUs for AI model training, robotic vision, multimodal sensor fusion, simulation, and large-scale data processing.
 </p>
-
-<div style="text-align:center; margin:40px 0;">
-  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment7.png"
-       alt="Equipment7"
-       style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
-</div>
 
 Selected funders
 --
