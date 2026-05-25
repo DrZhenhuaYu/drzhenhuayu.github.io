@@ -11,16 +11,16 @@ redirect_from:
 ### Bio
 
 Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the Department of Computer Science, University of Aberdeen, UK. Dr Zhenhua Yu is also an honorary Lecturer in the Medical Engineering Department of Mechanical Engineering, Imperial College London. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
-Before Dr Zhenhua Yu joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+Before Dr Zhenhua Yu joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with <a href="https://profiles.imperial.ac.uk/r.vaidyanathan" target="_blank">Prof. Ravi Vaidyanathan</a> in the Biomechatronics Lab.
+The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialisation.
 
 Email: Zhenhua.yu@abdn.ac.uk
 
 Research interests
 --
-The global rapid rise in ageing populations, coupled with the challenges of the pandemic and a shortage of medical instruments, has highlighted the urgent need for advanced bioelectronic devices that support decentralized and personalized healthcare.
+The global rapid rise in ageing populations, coupled with the challenges of the pandemic and a shortage of medical instruments, has highlighted the urgent need for advanced bioelectronic devices that support decentralised and personalised healthcare.
 
-These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware. To strengthen its global leadership and ensure continued competitiveness in biomechatronics, the aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware. To strengthen its global leadership and ensure continued competitiveness in biomechatronics, the aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialisation.
 
 - Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
 - Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
