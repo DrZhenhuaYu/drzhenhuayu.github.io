@@ -86,7 +86,7 @@ This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadrup
   
 <h3>3. Multimodal Flexible Sensor Fabrication Equipment</h3>
 <p>
-Flexible electronics encapsulation and testing equipment for wearable sensors, soft robotic sensors, and electronic skin devices. 
+Microelectronic printing and flexible electronics fabrication for stretchable circuits, conductive materials, and soft sensor development.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -99,7 +99,7 @@ This platform includes the MF-MP2200 multifunctional microelectronic printer and
 <p>
 <h3>4. Flexible Sensor Encapsulation and Testing Equipment</h3>
 <p>
-Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction.
+Flexible sensor encapsulation, mechanical reliability testing, and real-time electrical characterization for wearable and soft robotic devices.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -113,7 +113,7 @@ This platform includes the FE1000 Flexible Electronics Encapsulation Equipment a
   
 <h3>5. Robot Parts Processing and Manufacturing Equipment</h3>
 <p>
-Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research.
+Rapid 3D printing, resin printing, and multi-material 3D printing for robotic structures, soft–rigid components, and rapid prototyping.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
