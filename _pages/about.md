@@ -14,6 +14,7 @@ Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the <a href="htt
 
 Before this, he received the PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at <b> Imperial College London</b> in 2023, under the supervision of <a href="https://profiles.imperial.ac.uk/p.childs" target="_blank">Prof. Peter Childs FREng (Fellow of the Royal Academy of Engineering)</a>  and <a href="https://profiles.imperial.ac.uk/t.nanayakkara" target="_blank">Prof. Thrishantha Nanayakkara</a> .
 Before Dr Zhenhua Yu joined the University of Aberdeen, he worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with <a href="https://profiles.imperial.ac.uk/r.vaidyanathan" target="_blank">Prof. Ravi Vaidyanathan</a> in the Biomechatronics Lab.
+
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialisation.
 
 Email: Zhenhua.yu@abdn.ac.uk
