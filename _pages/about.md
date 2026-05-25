@@ -58,7 +58,7 @@ Research Facilities
 
 <h3>1. Multimodal Intelligent Robotics Platform</h3>
 <p>
-Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction. This platform includes DOBOT CRAF5AF, DOBOT CRAF10AF, and DOBOT CRAF20AF force-control collaborative robots, DOBOT X-Trainer dual-arm teleoperation robot, AgileX PiPERL light robotic arms, and Realman RM75-B-V / RM75-6F-V 6-axis robotic arms for robotic manipulation, teleoperation, force control, and human–robot interaction research.
+Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction.
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -69,9 +69,10 @@ Collaborative robotic arms and teleoperation systems for robotic manipulation, f
 <p>
 This platform includes DOBOT CRAF5AF, DOBOT CRAF10AF, and DOBOT CRAF20AF force-control collaborative robots, DOBOT X-Trainer dual-arm teleoperation robot, AgileX PiPERL light robotic arms, and Realman RM75-B-V / RM75-6F-V 6-axis robotic arms for robotic manipulation, teleoperation, force control, and human–robot interaction research.
 </p>
+
 <h3>2. Mobile Robotics and Motion Capture Platform</h3>
 <p>
-Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research. This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadruped robot, and NOKOV motion capture system for robotic navigation, trajectory acquisition, motion analysis, and embodied AI research.
+Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research. 
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -79,10 +80,13 @@ Mobile robots, quadruped robot, and motion capture system for navigation, trajec
        alt="Equipment2"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
+<p>
+This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadruped robot, and NOKOV motion capture system for robotic navigation, trajectory acquisition, motion analysis, and embodied AI research.
+<p>
+  
 <h3>3. Multimodal Intelligent Robot Sensor Fabrication Equipment</h3>
 <p>
-Electronic testing instruments for sensor signal measurement, circuit debugging, power supply, and robot hardware maintenance.
+Flexible electronics encapsulation and testing equipment for wearable sensors, soft robotic sensors, and electronic skin devices. 
 </p>
 
 <div style="text-align:center; margin:40px 0;">
@@ -113,7 +117,7 @@ Mobile robots, quadruped robot, and motion capture system for navigation, trajec
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
 
-<h3>6. Flexible Electronics Printing Platform</h3>
+<h3>6. Robot Test and Maintenance Equipment</h3>
 <p>
 Microelectronic printing and flexible direct-writing equipment for stretchable circuits, conductive materials, and soft sensor fabrication.
 </p>
@@ -123,7 +127,9 @@ Microelectronic printing and flexible direct-writing equipment for stretchable c
        alt="Equipment6"
        style="width:800px; max-width:100%; height:auto; display:block; margin:auto;">
 </div>
-
+<p>
+This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6012X-E signal generator, Siglent SDM4065A-SC digital multimeter, Siglent SPS5044X programmable power supply, and Siglent SVA1015X spectrum analyzer for circuit testing, signal analysis, debugging, and robotic hardware maintenance.
+<p>
 <h3>7. AI Computing Workstation with Dual RTX 5090 GPUs</h3>
 <p>
 High-performance AI computing workstation for deep learning, multimodal perception, robotics intelligence, and large-scale AI model training.
