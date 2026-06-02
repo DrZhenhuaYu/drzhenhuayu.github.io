@@ -9,6 +9,9 @@ author_profile: true
 - **More details are coming soon**
 
 
+<div style="display:none;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
+</div>
 
 <div style="display:none;">
 <script type="text/javascript" id="clustrmaps"
