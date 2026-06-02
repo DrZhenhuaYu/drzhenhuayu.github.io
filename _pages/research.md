@@ -112,3 +112,13 @@ This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6
 <p>
 The laboratory is equipped with high-performance AI computing workstations featuring dual RTX 5090 32 GB GPUs for AI model training, robotic vision, multimodal sensor fusion, simulation, and large-scale data processing.
 </p>
+
+
+<div style="display:none;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
+</div>
+<div style="display:none;">
+<script type="text/javascript" id="clustrmaps"
+src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
+</script>
+</div>
