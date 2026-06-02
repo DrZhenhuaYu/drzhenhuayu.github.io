@@ -164,20 +164,23 @@ My research has received funding and support from several funders, including the
 
 Selected collaborators
 --
-
 I have been fortunate to collaborate with a range of internal and external partners. Some of my external collaborators are shown in the figure below.
 
 
 Contact
--------
+--
 
 - Email: Zhenhua.yu@abdn.ac.uk
 - Address: Department of Computer Science, University of Aberdeen, Aberdeen, AB24 3UE, UK
-
+- 
+<div style="display:none;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
+</div>
 
+<!--
 <div style="display:none;">
 <script type="text/javascript" id="clustrmaps"
 src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
 </script>
 </div>
+-->
