@@ -142,25 +142,12 @@ This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6
 The laboratory is equipped with high-performance AI computing workstations featuring dual RTX 5090 32 GB GPUs for AI model training, robotic vision, multimodal sensor fusion, simulation, and large-scale data processing.
 </p>
 
+
 Selected funders
 --
+My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation). Details will be updated soon. 
 
-My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation), ** detailed will be updated soon**.. 
 
-<!-- <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-  <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
-    <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
-  </div>
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="/images/funders/quex.png" alt="image1" style="height:90px; width:auto;">
-  </div>
-</div> 
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/funders/funders.jpg" alt="image2" width="700">
-</div>
--->
 
 <div style="display:none;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
