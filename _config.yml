@@ -9,9 +9,11 @@
 locale                   : "en-US"
 title: "Dr Zhenhua Yu"
 name: "Dr Zhenhua Yu"
-
-description: "Dr Zhenhua Yu is an Assistant Professor in the Department of Computer Science at the University of Aberdeen and Honorary Lecturer at Imperial College London. His research focuses on robotics, artificial intelligence, wearable biosensors, digital healthcare, human-robot interaction and neuromorphic computing."
-
+description: >-
+  Dr Zhenhua Yu is an Assistant Professor in the Department of Computer Science
+  at the University of Aberdeen and Honorary Lecturer at Imperial College London.
+  His research focuses on robotics, artificial intelligence, wearable biosensors,
+  digital healthcare, human-robot interaction and neuromorphic computing.
 url: "https://drzhenhuayu.github.io"
 baseurl: ""
 repository               : "DrZhenhuaYu/drzhenhuayu.github.io"
