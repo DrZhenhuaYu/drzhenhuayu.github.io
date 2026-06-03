@@ -160,3 +160,5 @@ src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl
 </script>
 </div>
 
+<a href="https://smallcounter.com"><img src="https://smallcounter.com/count.php?c_style=2&id=1780520279" border=0 alt="web counter"></a><br><a href="https://smallcounter.com" style="font-size:9px;">free hit counter</a><br>
+
