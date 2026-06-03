@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zhenhua Yu"
+title                    : "Dr Zhenhua Yu | Assistant Professor | University of Aberdeen"
 title_separator          : "-"
 name                     : "Dr. Zhenhua Yu"
-description              :  "Assistant Professor in Dept. CS @University of Aberdeen | Honorary Lecturer @ICL | PhD @ ICL | Robotics and AI for digital healthcare"
-url                      : https://drzhenhuayu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              :  "Dr Zhenhua Yu is an Assistant Professor in the Department of Computer Science at the University of Aberdeen and Honorary Lecturer at Imperial College London. His research focuses on robotics, artificial intelligence, wearable biosensors, digital healthcare, human-robot interaction and neuromorphic computing."
+url                      : "https://drzhenhuayu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drzhenhuayu/drzhenhuayu.github.io"
 teaser                   : "bg.png"
@@ -66,9 +66,14 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Dr Zhenhua Yu"
+  links: - "https://www.abdn.ac.uk/people/zhenhua.yu"
+- "https://scholar.google.co.uk/citations?user=2qygvtQAAAAJ"
+- "https://www.linkedin.com/in/zhenhua-yu-036998152/"
+- "https://www.researchgate.net/profile/Zhenhua-Yu-6/research"
+- "https://github.com/DrZhenhuaYu"
+- "https://drzhenhuayu.github.io/"
 
 
 # Analytics
