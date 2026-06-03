@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Zhenhua Yu (于振华)"
-excerpt: "About me"
+excerpt: "Dr Zhenhua Yu is an Assistant Professor in Computer Science at the University of Aberdeen. His research focuses on robotics, artificial intelligence, wearable biosensors, digital healthcare and human-robot interaction."
+description: "Dr Zhenhua Yu is an Assistant Professor in the Department of Computer Science at the University of Aberdeen and Honorary Lecturer at Imperial College London. His research focuses on robotics, artificial intelligence, wearable biosensors, digital healthcare and neuromorphic computing."
 author_profile: true
 redirect_from: 
   - /about/
