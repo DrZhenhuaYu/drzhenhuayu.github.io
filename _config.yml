@@ -14,7 +14,7 @@ description: "Dr Zhenhua Yu is an Assistant Professor in the Department of Compu
 
 url: "https://drzhenhuayu.github.io"
 baseurl: ""
-repository               : "drzhenhuayu/drzhenhuayu.github.io"
+repository               : "DrZhenhuaYu/drzhenhuayu.github.io"
 teaser                   : "bg.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
