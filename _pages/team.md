@@ -13,7 +13,6 @@ I have supervised and co-supervised students at various universities and continu
 <!-- - I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**. -->
 
 ## **Current team**
-
 <p>
   At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Lab</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
 </p>
@@ -41,7 +40,6 @@ I have supervised and co-supervised students at various universities and continu
 </div>
 
 ### PhD Students:
-
 <div>
   <img align="left" width="200" style="margin-right: 10px" src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg" alt="Cong Liu">
 
@@ -175,20 +173,17 @@ I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.
 
 - As the assistant supervisor (co-supervise with Prof. Ravi Vaidyanathan )
   
-  - [Zehao Liu](https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate) (PhD student)
-    
-  - [Shibo Jing](https://scholar.google.com/citations?hl=en&user=rKKYhKMAAAAJ&view_op=list_works&sortby=pubdate) (PhD student)
-    
+  - [Zehao Liu](https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate) (PhD student)    
+  - [Shibo Jing](https://scholar.google.com/citations?hl=en&user=rKKYhKMAAAAJ&view_op=list_works&sortby=pubdate) (PhD student)    
   - [Filip Paszkiewicz](https://www.linkedin.com/in/filip-paszkiewicz-2a156a151/?originalSubdomain=uk) (PhD student)
     
-      
 - MSc students
 	- Xiao Jin (2023 - 2025, BSc, MSc)
 - BSc students
-
-	- Yang Zhang (2023 - 2024, BSc)
-
-	- Yixuan Xie (2023 - 2024, BSc)
+  	- Boyang Zhao (2025 - 2026, BSc,SCNU,ABDN)
+	- Yixuan Ye (2025 - 2026, BSc,SCNU,ABDN)
+	- Yang Zhang (2023 - 2024, BSc,IC)
+	- Yixuan Xie (2023 - 2024, BSc,IC)
 
 
 
