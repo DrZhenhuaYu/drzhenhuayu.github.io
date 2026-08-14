@@ -15,21 +15,17 @@ Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the <a href="htt
 
 Before this, he received the PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at <b> Imperial College London</b> in 2023, under the supervision of <a href="https://profiles.imperial.ac.uk/p.childs" target="_blank">Prof. Peter Childs FREng (Fellow of the Royal Academy of Engineering)</a>  and <a href="https://profiles.imperial.ac.uk/t.nanayakkara" target="_blank">Prof. Thrishantha Nanayakkara</a> .
 Before Dr Zhenhua Yu joined the University of Aberdeen at Nov 2024, he worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with <a href="https://profiles.imperial.ac.uk/r.vaidyanathan" target="_blank">Prof. Ravi Vaidyanathan</a> in the Biomechatronics Lab.
-
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialisation.
-
 Email: Zhenhua.yu@abdn.ac.uk
 
 Research interests
 --
 The global rapid rise in ageing populations, coupled with the challenges of the pandemic and a shortage of medical instruments, has highlighted the urgent need for advanced bioelectronic devices that support decentralised and personalised healthcare.
-
 These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware. To strengthen its global leadership and ensure continued competitiveness in biomechatronics, the aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialisation.
 
 - Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
 - Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
 - Embedded AI and robotics perception and navigation in human-centric digital healthcare
-
 To know more about my research, please go to the  '[Research](https://drzhenhuayu.github.io//research/)' section.
 
 **Joining my Intelligent Robotics Laboratory**
