@@ -35,17 +35,15 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
 
-News
-----
+## News
 
-[11/2024]: I’m awarded Honorary Lecturer in the Medical Engineering Department of Mechanical Engineering, Imperial College London. The association is offered in recognition of my valuable contribution to the Department of Mechanical Engineering.
+[11/2024]: I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department.
 
-[11/2024]: Started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science, at the University of Aberdeen.
+[11/2024]: I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen.
 
-[03/2023]: Started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
+[03/2023]: I started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
 
-[02/2019]:: Started my PhD research in Robotics & Artificial Intelligence in the Dyson School of Design Engineering at Imperial College London, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
-
+[02/2019]: I started my PhD research in Robotics & Artificial Intelligence at the Dyson School of Design Engineering, Imperial College London, working in the Morph Lab with Prof. Thrishantha Nanayakkara and Prof. Peter Childs FREng.
 
 More news about me can be found [**here**](https://drzhenhuayu.github.io/previous_news/).
 
