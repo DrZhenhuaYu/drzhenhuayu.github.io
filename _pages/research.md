@@ -9,7 +9,7 @@ author_profile: true
 Vision
 ----
 
-My Interlligent Robotics Laboratory aims to **use Robotics and AI to benefit humanity.**
+My Multimodal Intelligent Robotics Lab aims to **use Robotics and AI to benefit humanity.**
 
 Research areas
 ----
