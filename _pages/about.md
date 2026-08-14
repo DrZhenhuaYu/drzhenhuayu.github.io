@@ -47,11 +47,6 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 More news about me can be found [**here**](https://drzhenhuayu.github.io/previous_news/).
 
-## Join Us
-
-NOTE: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student,  please email me your CV (**Please DO NOT send me a very long email!**).
-
-
 
 <div style="display:none;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
