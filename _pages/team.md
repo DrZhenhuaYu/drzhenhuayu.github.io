@@ -15,19 +15,30 @@ I have supervised and co-supervised students at various universities and continu
 ## **Current team**
 
 <p>
-  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+  At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Lab</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
 </p>
 
-<div style="text-align:center; margin:30px 0;">
-  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
-       alt="Intelligent Robotics Laboratory"
-       style="width:500px; max-width:100%; height:auto;">
-  <p style="font-size:14px; color:#666; margin-top:8px;">
-    Our research team at the University of Aberdeen, March 2026.
-  </p>
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin:30px 0;">
+
+  <div style="text-align:center; width:48%;">
+    <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
+         alt="Intelligent Robotics Laboratory"
+         style="width:100%; height:auto;">
+    <p style="font-size:14px; color:#666; margin-top:8px;">
+      Our research team at the University of Aberdeen, March 2026.
+    </p>
+  </div>
+
+  <div style="text-align:center; width:48%;">
+    <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260415Aberdeen.jpg"
+         alt="Intelligent Robotics Laboratory"
+         style="width:100%; height:auto;">
+    <p style="font-size:14px; color:#666; margin-top:8px;">
+      Our research team at the University of Aberdeen, April 2026.
+    </p>
+  </div>
+
 </div>
-
-
 
 ### PhD Students:
 
