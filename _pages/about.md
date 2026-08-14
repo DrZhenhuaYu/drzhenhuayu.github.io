@@ -38,9 +38,8 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 ## News
 
 **[11/2024]** I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department.
+
 **[11/2024]** I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen.
-**[03/2023]** I started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
-**[02/2019]** I started my PhD research in Robotics & Artificial Intelligence at the Dyson School of Design Engineering, Imperial College London, working in the Morph Lab with Prof. Thrishantha Nanayakkara and Prof. Peter Childs FREng.
 
 More news about me can be found [**here**](https://drzhenhuayu.github.io/previous_news/).
 
