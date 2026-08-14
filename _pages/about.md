@@ -47,9 +47,9 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 More news about me can be found [**here**](https://drzhenhuayu.github.io/previous_news/).
 
-Selected funders
---
-My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation). Details will be updated soon. 
+## Join Us
+
+NOTE: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student,  please email me your CV (**Please DO NOT send me a very long email!**).
 
 
 
