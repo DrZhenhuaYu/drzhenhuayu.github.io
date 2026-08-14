@@ -22,7 +22,12 @@ I have supervised and co-supervised students at various universities and continu
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
        alt="Intelligent Robotics Laboratory"
        style="width:500px; max-width:100%; height:auto;">
+  <p style="font-size:14px; color:#666; margin-top:8px;">
+    Our research team at the University of Aberdeen, March 2026.
+  </p>
 </div>
+
+
 
 ### PhD Students:
 
@@ -90,16 +95,6 @@ I have supervised and co-supervised students at various universities and continu
 <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:40px 30px; text-align:center; align-items:start;">
 
   <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Zhao%20Boyang.jpg" alt="Boyang Zhao" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Boyang Zhao</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:francis20060728@gmail.com">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://drzhenhuayu.github.io/images/people/Yuan%20Zefeng.jpg" alt="Zefeng Yuan" style="width:180px; height:240px; object-fit:cover; display:block;">
     <div style="margin-top:12px;">
       <b>Zefeng Yuan</b><br>
@@ -127,16 +122,6 @@ I have supervised and co-supervised students at various universities and continu
     </div>
     <div style="height:8px;"></div>
     <a href="mailto:fyxfyxals@qq.com">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Ye%20Yixuan.JPG" alt="Yixuan Ye" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Yixuan Ye</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:y.ye.24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
