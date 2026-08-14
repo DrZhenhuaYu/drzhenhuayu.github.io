@@ -59,7 +59,6 @@ Research Facilities
 <p>
 The laboratory is equipped with advanced multimodal robotics, flexible electronics, intelligent sensing, additive manufacturing, and AI computing platforms, supporting interdisciplinary research in robotics, wearable healthcare devices, embodied intelligence, human–robot interaction, and intelligent autonomous systems.
 </p>
-
 <h3>1. Multimodal Intelligent Robotics Platform</h3>
 <p>
 Collaborative robotic arms and teleoperation systems for robotic manipulation, force control, and human–robot interaction.
@@ -73,12 +72,10 @@ Collaborative robotic arms and teleoperation systems for robotic manipulation, f
 <p>
 This platform includes DOBOT CRAF5AF, DOBOT CRAF10AF, and DOBOT CRAF20AF force-control collaborative robots, DOBOT X-Trainer dual-arm teleoperation robot, AgileX PiPERL light robotic arms, and Realman RM75-B-V / RM75-6F-V 6-axis robotic arms for robotic manipulation, teleoperation, force control, and human–robot interaction research.
 </p>
-
 <h3>2. Mobile Robotics and Motion Capture Platform</h3>
 <p>
 Mobile robots, quadruped robot, and motion capture system for navigation, trajectory tracking, and embodied AI research. 
 </p>
-
 <div style="text-align:center; margin:40px 0;">
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment2.png"
        alt="Equipment2"
@@ -87,12 +84,10 @@ Mobile robots, quadruped robot, and motion capture system for navigation, trajec
 <p>
 This platform includes AgileX RANGER MINI mobile robots, Unitree Go2-Pro quadruped robot, and NOKOV motion capture system for robotic navigation, trajectory acquisition, motion analysis, and embodied AI research.
 <p>
-  
 <h3>3. Multimodal Flexible Sensor Fabrication Equipment</h3>
 <p>
 Microelectronic printing and flexible electronics fabrication for stretchable circuits, conductive materials, and soft sensor development.
 </p>
-
 <div style="text-align:center; margin:40px 0;">
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment3.png"
        alt="Equipment3"
@@ -105,7 +100,6 @@ This platform includes the MF-MP2200 multifunctional microelectronic printer and
 <p>
 Flexible sensor encapsulation, mechanical reliability testing, and real-time electrical characterisation for wearable and soft robotic devices.
 </p>
-
 <div style="text-align:center; margin:40px 0;">
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment4.png"
        alt="Equipment4"
@@ -114,12 +108,10 @@ Flexible sensor encapsulation, mechanical reliability testing, and real-time ele
 <p>
 This platform includes the FE1000 Flexible Electronics Encapsulation Equipment and MF-FT2000 Flexible Electronics Tester for flexible device encapsulation, stretching, bending, twisting, electrical characterization, and wearable sensor reliability testing.
 <p>
-  
 <h3>5. Robot Parts Processing and Manufacturing Equipment</h3>
 <p>
 Rapid 3D printing, resin printing, and multi-material 3D printing for robotic structures, soft–rigid components, and rapid prototyping.
 </p>
-
 <div style="text-align:center; margin:40px 0;">
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment5.png"
        alt="Equipment5"
@@ -130,7 +122,6 @@ This platform includes Bambu Lab H2D FDM printers, HeyGears Reflex Turbo SLA pri
 <p>
 Microelectronic printing and flexible direct-writing equipment for stretchable circuits, conductive materials, and soft sensor fabrication.
 </p>
-
 <div style="text-align:center; margin:40px 0;">
   <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/research/Equipment6.png"
        alt="Equipment6"
@@ -142,7 +133,6 @@ This platform includes the Siglent 2000XHD 2G digital oscilloscope, Siglent SDG6
 <p>
 The laboratory is equipped with high-performance AI computing workstations featuring dual RTX 5090 32 GB GPUs for AI model training, robotic vision, multimodal sensor fusion, simulation, and large-scale data processing.
 </p>
-
 
 Selected funders
 --
