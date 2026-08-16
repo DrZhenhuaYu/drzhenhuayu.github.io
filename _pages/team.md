@@ -3,115 +3,71 @@ layout: archive
 title: "Team"
 permalink: /team/
 author_profile: true
-
 ---
 
 {% include base_path %}
 
-I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
+<div style="font-size: 0.90em; line-height: 1.55;">
 
-<!-- - I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**. -->
-
-## **Current team**
 <p>
-  At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Lab</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, <b>attracting talented individuals from all over the world and educating them is one of the greatest joys in life.</b>
 </p>
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin:30px 0;">
+
+<h2 style="font-size:1.35em; margin-top:35px; margin-bottom:15px;">
+Current team
+</h2>
+
+<p>
+At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Lab</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+</p>
+
+
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin:25px 0;">
 
   <div style="text-align:center; width:48%;">
     <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
          alt="Intelligent Robotics Laboratory"
          style="width:100%; height:auto;">
-    <p style="font-size:14px; color:#666; margin-top:8px;">
+
+    <p style="font-size:0.78em; color:#666; margin-top:6px;">
       Our research team at the University of Aberdeen, March 2026.
     </p>
   </div>
+
 
   <div style="text-align:center; width:48%;">
     <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260415Aberdeen.jpg"
          alt="Intelligent Robotics Laboratory"
          style="width:100%; height:auto;">
-    <p style="font-size:14px; color:#666; margin-top:8px;">
+
+    <p style="font-size:0.78em; color:#666; margin-top:6px;">
       Our research team at the University of Aberdeen, April 2026.
     </p>
   </div>
 
 </div>
 
+</div>
 ### PhD Students:
-
-<style>
-.phd-student {
-  display: flex;
-  align-items: flex-start;
-  background: #eeeeee;
-  padding: 18px 20px;
-  margin-bottom: 16px;
-  font-size: 0.88em;
-  line-height: 1.3;
-}
-
-/* 保持原照片比例，只统一宽度 */
-.phd-student img {
-  width: 160px;
-  height: auto;
-  margin-right: 22px;
-  flex-shrink: 0;
-}
-
-.phd-info {
-  padding-top: 2px;
-}
-
-.phd-name {
-  font-size: 1.08em;
-  font-weight: 700;
-  margin-bottom: 3px;
-}
-
-.phd-topic {
-  margin-top: 8px;
-}
-
-.phd-links {
-  margin-top: 8px;
-}
-
-@media (max-width: 600px) {
-  .phd-student {
-    padding: 14px;
-  }
-
-  .phd-student img {
-    width: 110px;
-    margin-right: 15px;
-  }
-}
-</style>
-
 
 <!-- ==================== Cong Liu ==================== -->
 
-<div class="phd-student">
+<div style="display:flex; align-items:flex-start; background:#eeeeee; padding:18px 20px; margin-bottom:16px; font-size:0.88em; line-height:1.3;">
 
-  <img src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg"
+  <img width="160"
+       style="width:160px; max-width:160px; height:auto; margin-right:22px;"
+       src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg"
        alt="Cong Liu">
 
-  <div class="phd-info">
+  <div>
+    <b>Cong Liu</b><br>
+    1st Year PhD<br><br>
 
-    <div class="phd-name">Cong Liu</div>
-    1st Year PhD
+    <b>Research Topic:</b>
+    Wearable Biosensing and Intelligent Human–Robot Interaction<br><br>
 
-    <div class="phd-topic">
-      <b>Research Topic:</b>
-      Wearable Biosensing and Intelligent Human–Robot Interaction
-    </div>
-
-    <div class="phd-links">
-      <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
-    </div>
-
+    <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
   </div>
 
 </div>
@@ -119,25 +75,21 @@ I have supervised and co-supervised students at various universities and continu
 
 <!-- ==================== Zheng Ma ==================== -->
 
-<div class="phd-student">
+<div style="display:flex; align-items:flex-start; background:#eeeeee; padding:18px 20px; margin-bottom:16px; font-size:0.88em; line-height:1.3;">
 
-  <img src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG"
+  <img width="160"
+       style="width:160px; max-width:160px; height:auto; margin-right:22px;"
+       src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG"
        alt="Zheng Ma">
 
-  <div class="phd-info">
+  <div>
+    <b>Zheng Ma</b><br>
+    1st Year PhD<br><br>
 
-    <div class="phd-name">Zheng Ma</div>
-    1st Year PhD
+    <b>Research Topic:</b>
+    Wearable Sensing and Soft Robotic Systems<br><br>
 
-    <div class="phd-topic">
-      <b>Research Topic:</b>
-      Wearable Sensing and Soft Robotic Systems
-    </div>
-
-    <div class="phd-links">
-      <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
-    </div>
-
+    <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
   </div>
 
 </div>
@@ -145,26 +97,22 @@ I have supervised and co-supervised students at various universities and continu
 
 <!-- ==================== Xiao Jin ==================== -->
 
-<div class="phd-student">
+<div style="display:flex; align-items:flex-start; background:#eeeeee; padding:18px 20px; margin-bottom:16px; font-size:0.88em; line-height:1.3;">
 
-  <img src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png"
+  <img width="160"
+       style="width:160px; max-width:160px; height:auto; margin-right:22px;"
+       src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png"
        alt="Xiao Jin">
 
-  <div class="phd-info">
+  <div>
+    <b>Xiao Jin</b><br>
+    1st Year PhD<br><br>
 
-    <div class="phd-name">Xiao Jin</div>
-    1st Year PhD
+    <b>Research Topic:</b>
+    Embodied Intelligence and Intelligent Robotic Systems<br><br>
 
-    <div class="phd-topic">
-      <b>Research Topic:</b>
-      Embodied Intelligence and Intelligent Robotic Systems
-    </div>
-
-    <div class="phd-links">
-      <a href="https://drzhenhuayu.github.io/">Website</a> |
-      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
-    </div>
-
+    <a href="https://drzhenhuayu.github.io/">Website</a> |
+    <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
   </div>
 
 </div>
@@ -172,21 +120,19 @@ I have supervised and co-supervised students at various universities and continu
 
 <!-- ==================== Yuxing Zhang ==================== -->
 
-<div class="phd-student">
+<div style="display:flex; align-items:flex-start; background:#eeeeee; padding:18px 20px; margin-bottom:16px; font-size:0.88em; line-height:1.3;">
 
-  <img src="https://drzhenhuayu.github.io/images/people/Yuxing%20Zhang.jpg"
+  <img width="160"
+       style="width:160px; max-width:160px; height:auto; margin-right:22px;"
+       src="https://drzhenhuayu.github.io/images/people/Yuxing%20Zhang.jpg"
        alt="Yuxing Zhang">
 
-  <div class="phd-info">
+  <div>
+    <b>Yuxing Zhang</b><br>
+    Incoming PhD Student<br><br>
 
-    <div class="phd-name">Yuxing Zhang</div>
-    Incoming PhD Student
-
-    <div class="phd-topic">
-      <b>Research Topic:</b>
-      Multimodal Wearable Sensing for Human–Robot Interaction
-    </div>
-
+    <b>Research Topic:</b>
+    Multimodal Wearable Sensing for Human–Robot Interaction
   </div>
 
 </div>
