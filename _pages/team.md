@@ -42,33 +42,51 @@ I have supervised and co-supervised students at various universities and continu
 ### PhD Students:
 
 <style>
-.research-group {
-  background: #dddddd;
-  padding: 20px 30px;
-  margin-bottom: 18px;
+.phd-student {
+  display: flex;
+  align-items: flex-start;
+  background: #eeeeee;
+  padding: 18px 20px;
+  margin-bottom: 16px;
   font-size: 0.88em;
-  line-height: 1.25;
+  line-height: 1.3;
 }
 
-.research-group h2 {
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 1.25em;
+/* 保持原照片比例，只统一宽度 */
+.phd-student img {
+  width: 160px;
+  height: auto;
+  margin-right: 22px;
+  flex-shrink: 0;
 }
 
-.student {
-  margin-bottom: 14px;
-  line-height: 1.25;
+.phd-info {
+  padding-top: 2px;
 }
 
-.student:last-child {
-  margin-bottom: 0;
+.phd-name {
+  font-size: 1.08em;
+  font-weight: 700;
+  margin-bottom: 3px;
 }
 
-.student-name {
-  font-weight: bold;
-  font-size: 1em;
+.phd-topic {
+  margin-top: 8px;
+}
+
+.phd-links {
+  margin-top: 8px;
+}
+
+@media (max-width: 600px) {
+  .phd-student {
+    padding: 14px;
+  }
+
+  .phd-student img {
+    width: 110px;
+    margin-right: 15px;
+  }
 }
 </style>
 
@@ -82,15 +100,17 @@ I have supervised and co-supervised students at various universities and continu
 
   <div class="phd-info">
 
-    <span class="phd-name">Cong Liu</span><br>
+    <div class="phd-name">Cong Liu</div>
     1st Year PhD
 
     <div class="phd-topic">
-      <b>Research Topic:</b> Wearable Biosensing and Intelligent Human–Robot Interaction
+      <b>Research Topic:</b>
+      Wearable Biosensing and Intelligent Human–Robot Interaction
     </div>
 
-    <br>
-    <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+    <div class="phd-links">
+      <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+    </div>
 
   </div>
 
@@ -106,15 +126,17 @@ I have supervised and co-supervised students at various universities and continu
 
   <div class="phd-info">
 
-    <span class="phd-name">Zheng Ma</span><br>
+    <div class="phd-name">Zheng Ma</div>
     1st Year PhD
 
     <div class="phd-topic">
-      <b>Research Topic:</b> Wearable Sensing and Soft Robotic Systems
+      <b>Research Topic:</b>
+      Wearable Sensing and Soft Robotic Systems
     </div>
 
-    <br>
-    <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+    <div class="phd-links">
+      <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+    </div>
 
   </div>
 
@@ -130,16 +152,18 @@ I have supervised and co-supervised students at various universities and continu
 
   <div class="phd-info">
 
-    <span class="phd-name">Xiao Jin</span><br>
+    <div class="phd-name">Xiao Jin</div>
     1st Year PhD
 
     <div class="phd-topic">
-      <b>Research Topic:</b> Embodied Intelligence and Intelligent Robotic Systems
+      <b>Research Topic:</b>
+      Embodied Intelligence and Intelligent Robotic Systems
     </div>
 
-    <br>
-    <a href="https://drzhenhuayu.github.io/">Website</a> |
-    <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+    <div class="phd-links">
+      <a href="https://drzhenhuayu.github.io/">Website</a> |
+      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+    </div>
 
   </div>
 
@@ -155,15 +179,13 @@ I have supervised and co-supervised students at various universities and continu
 
   <div class="phd-info">
 
-    <span class="phd-name">Yuxing Zhang</span><br>
+    <div class="phd-name">Yuxing Zhang</div>
     Incoming PhD Student
 
     <div class="phd-topic">
-      <b>Research Topic:</b> Multimodal Wearable Sensing for Human–Robot Interaction
+      <b>Research Topic:</b>
+      Multimodal Wearable Sensing for Human–Robot Interaction
     </div>
-
-    <br>
-    <a href="mailto:EMAIL">Email</a>
 
   </div>
 
