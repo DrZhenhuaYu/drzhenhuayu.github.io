@@ -291,8 +291,8 @@ Research Group D
 </h3>
 
 <div style="margin-bottom:13px;">
-<b>Student Name 1</b><br>
-Supervisor: Zhenhua Yu, Xiao Jin<br>
+<b>Yumo Jia</b><br>
+Supervisor: Zhenhua Yu, Cong Liu<br>
 Project: Research Project
 </div>
 
@@ -302,8 +302,28 @@ Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Research Project
 </div>
 
-<div>
-<b>Student Name 3</b><br>
+</div>
+
+
+</div>
+
+
+<!-- ==================== GROUP E ==================== -->
+
+<div style="background:#dddddd; padding:18px 22px; line-height:1.35;">
+
+<h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
+Research Group E
+</h3>
+
+<div style="margin-bottom:13px;">
+<b>Han Huang</b><br>
+Supervisor: Zhenhua Yu, Zheng Ma<br>
+Project: Research Project
+</div>
+
+<div style="margin-bottom:13px;">
+<b>Student Name 2</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Research Project
 </div>
@@ -312,13 +332,14 @@ Project: Research Project
 
 
 </div>
+
+
+
 <!-- ================================================== -->
 <!-- Alumni                                             -->
 <!-- ================================================== -->
 
-<div style="background-color:#e8e8e8; padding:20px 24px; margin-top:30px; margin-bottom:20px; width:100%; box-sizing:border-box;">
-
-<h2 style="font-size:1.35em; margin-top:0; margin-bottom:14px;">
+<h2 style="font-size:1.35em; margin-top:30px; margin-bottom:14px;">
 Alumni
 </h2>
 
@@ -326,10 +347,14 @@ Alumni
 My students have pursued diverse career paths: some have joined leading companies such as Huawei and startup companies, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 </p>
 
-<!-- University of Aberdeen -->
-<div style="margin-left:20px;">
 
-<h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
+<!-- ================================================== -->
+<!-- University of Aberdeen                             -->
+<!-- ================================================== -->
+
+<div style="background:#dddddd; padding:18px 26px; margin-top:18px; margin-bottom:16px; line-height:1.35;">
+
+<h3 style="font-size:1.15em; margin-top:0; margin-bottom:14px;">
 University of Aberdeen
 </h3>
 
@@ -337,18 +362,28 @@ University of Aberdeen
 <b>BSc students</b>
 </p>
 
-<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
-<li>Boyang Zhao (2025–2026, BSc, SCNU, ABDN)</li>
-<li>Yixuan Ye (2025–2026, BSc, SCNU, ABDN)</li>
+<ul style="margin-top:6px; margin-bottom:0; margin-left:20px;">
+
+<li style="margin-bottom:3px;">
+Boyang Zhao (2025–2026, BSc, SCNU, ABDN)
+</li>
+
+<li style="margin-bottom:3px;">
+Yixuan Ye (2025–2026, BSc, SCNU, ABDN)
+</li>
+
 </ul>
 
 </div>
 
 
-<!-- Imperial College London -->
-<div style="margin-left:20px;">
+<!-- ================================================== -->
+<!-- Imperial College London                            -->
+<!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
+<div style="background:#dddddd; padding:18px 26px; margin-bottom:16px; line-height:1.35;">
+
+<h3 style="font-size:1.15em; margin-top:0; margin-bottom:14px;">
 Imperial College London
 </h3>
 
@@ -360,6 +395,7 @@ Imperial's Activate Student Mentoring Programme
 at the Department of Mechanical Engineering, where I supported PhD students in their academic and professional development.
 </p>
 
+
 <p style="margin-bottom:6px;">
 <b>PhD Assistant Supervisor</b> — co-supervised with Prof. Ravi Vaidyanathan
 </p>
@@ -367,36 +403,75 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
 
 <li style="margin-bottom:3px;">
-<a href="https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate">Zehao Liu</a> — PhD student
+<a href="https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate">
+Zehao Liu
+</a>
+— PhD student
 </li>
 
 <li style="margin-bottom:3px;">
-<a href="https://scholar.google.com/citations?hl=en&user=rKKYhKMAAAAJ&view_op=list_works&sortby=pubdate">Shibo Jing</a> — PhD student
+<a href="https://scholar.google.com/citations?hl=en&user=rKKYhKMAAAAJ&view_op=list_works&sortby=pubdate">
+Shibo Jing
+</a>
+— PhD student
 </li>
 
 <li style="margin-bottom:3px;">
-<a href="https://www.linkedin.com/in/filip-paszkiewicz-2a156a151/?originalSubdomain=uk">Filip Paszkiewicz</a> — PhD student
+<a href="https://www.linkedin.com/in/filip-paszkiewicz-2a156a151/?originalSubdomain=uk">
+Filip Paszkiewicz
+</a>
+— PhD student
 </li>
 
 </ul>
+
 
 <p style="margin-bottom:6px;">
 <b>MSc students</b>
 </p>
 
 <ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
-<li>Xiao Jin (2023–2025, BSc, MSc)</li>
+
+<li>
+Xiao Jin (2023–2025, BSc, MSc)
+</li>
+
 </ul>
+
 
 <p style="margin-bottom:6px;">
 <b>BSc students</b>
 </p>
 
 <ul style="margin-top:6px; margin-bottom:0; margin-left:20px;">
-<li>Yang Zhang (2023–2024, BSc, IC)</li>
-<li>Yixuan Xie (2023–2024, BSc, IC)</li>
+
+<li style="margin-bottom:3px;">
+Yang Zhang (2023–2024, BSc, IC)
+</li>
+
+<li>
+Yixuan Xie (2023–2024, BSc, IC)
+</li>
+
 </ul>
 
 </div>
 
+
+<!-- ================================================== -->
+<!-- Visitor Maps                                       -->
+<!-- ================================================== -->
+
+<div style="display:none;">
+<script type="text/javascript"
+id="mapmyvisitors"
+src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a">
+</script>
+</div>
+
+<div style="display:none;">
+<script type="text/javascript"
+id="clustrmaps"
+src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
+</script>
 </div>
