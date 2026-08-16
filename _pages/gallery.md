@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Services and Membership"
-permalink: /services/
+permalink: /gallery/
 author_profile: true
 ---
 {% include base_path %}
