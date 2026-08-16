@@ -256,19 +256,25 @@ Research Group C
 </h3>
 
 <div style="margin-bottom:13px;">
-<b>Student Name 1</b><br>
+<b>Fengliang Liu</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Research Project
 </div>
 
 <div style="margin-bottom:13px;">
-<b>Student Name 2</b><br>
+<b>Jiayi Zheng</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Research Project
 </div>
 
 <div>
-<b>Student Name 3</b><br>
+<b>Xiang Luo</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Research Project
+</div>
+
+<div>
+<b>Yijing Liao</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Research Project
 </div>
