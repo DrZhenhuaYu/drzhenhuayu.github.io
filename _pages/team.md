@@ -239,7 +239,6 @@ Project: Vision-Based Robotic Manipulation
 
 </div>
 
-
 <!-- ================================================== -->
 <!-- Alumni                                             -->
 <!-- ================================================== -->
@@ -252,6 +251,43 @@ Alumni
 My students have pursued diverse career paths: some have joined leading companies such as Huawei and startup companies, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 </p>
 
+
+<!-- ================================================== -->
+<!-- University of Aberdeen                             -->
+<!-- ================================================== -->
+
+<div style="margin-left:20px;">
+
+<h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
+University of Aberdeen
+</h3>
+
+<p style="margin-bottom:6px;">
+<b>MSc students</b>
+</p>
+
+<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
+<li>Student Name (2025–2026, MSc)</li>
+</ul>
+
+
+<p style="margin-bottom:6px;">
+<b>BSc students</b>
+</p>
+
+<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
+<li>Boyang Zhao (2025–2026, BSc, SCNU, ABDN)</li>
+<li>Yixuan Ye (2025–2026, BSc, SCNU, ABDN)</li>
+</ul>
+
+</div>
+
+
+<!-- ================================================== -->
+<!-- Imperial College London                            -->
+<!-- ================================================== -->
+
+<div style="margin-left:20px;">
 
 <h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
 Imperial College London
@@ -270,7 +306,8 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <b>Assistant supervisor</b> — co-supervised with Prof. Ravi Vaidyanathan
 </p>
 
-<ul style="margin-top:6px; margin-bottom:14px;">
+<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
+
 <li style="margin-bottom:3px;">
 <a href="https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate">Zehao Liu</a> — PhD student
 </li>
@@ -282,6 +319,7 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <li style="margin-bottom:3px;">
 <a href="https://www.linkedin.com/in/filip-paszkiewicz-2a156a151/?originalSubdomain=uk">Filip Paszkiewicz</a> — PhD student
 </li>
+
 </ul>
 
 
@@ -289,7 +327,7 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <b>MSc students</b>
 </p>
 
-<ul style="margin-top:6px; margin-bottom:14px;">
+<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
 <li>Xiao Jin (2023–2025, BSc, MSc)</li>
 </ul>
 
@@ -298,12 +336,12 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <b>BSc students</b>
 </p>
 
-<ul style="margin-top:6px;">
-<li>Boyang Zhao (2025–2026, BSc, SCNU, ABDN)</li>
-<li>Yixuan Ye (2025–2026, BSc, SCNU, ABDN)</li>
+<ul style="margin-top:6px; margin-left:20px;">
 <li>Yang Zhang (2023–2024, BSc, IC)</li>
 <li>Yixuan Xie (2023–2024, BSc, IC)</li>
 </ul>
+
+</div>
 
 
 </div>
