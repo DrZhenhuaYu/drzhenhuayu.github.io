@@ -193,22 +193,22 @@ Research Group A
 
 
 <div style="margin-bottom:13px;">
-<b>Student Name 1</b><br>
-Supervisor: Zhenhua Yu<br>
+<b>Qinghao Yan</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Wearable Biosensing and Intelligent Human–Robot Interaction
 </div>
 
 
 <div style="margin-bottom:13px;">
-<b>Student Name 2</b><br>
-Supervisor: Zhenhua Yu<br>
+<b>Yixian Fan</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Mechanomyography-Based Muscle Monitoring
 </div>
 
 
 <div>
-<b>Student Name 3</b><br>
-Supervisor: Zhenhua Yu<br>
+<b>Jiayue Dai</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Embodied Intelligence for Robotic Systems
 </div>
 
