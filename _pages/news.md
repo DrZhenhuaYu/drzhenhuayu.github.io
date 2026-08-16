@@ -13,10 +13,10 @@ author_profile: true
 <!-- ================================================== -->
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[8/2026]</b>I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
+<b>[8/2026]</b> [News] I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[8/2026]</b>I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
+<b>[8/2026]</b>  [News]I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
 
 
 </div>
