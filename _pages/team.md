@@ -42,30 +42,33 @@ I have supervised and co-supervised students at various universities and continu
 ### PhD Students:
 
 <style>
-.phd-student {
-  display: flex;
-  align-items: flex-start;
-  background: #eeeeee;
-  padding: 20px;
+.research-group {
+  background: #dddddd;
+  padding: 20px 30px;
+  margin-bottom: 18px;
+  font-size: 0.88em;
+  line-height: 1.25;
+}
+
+.research-group h2 {
+  text-align: center;
+  margin-top: 0;
   margin-bottom: 20px;
+  font-size: 1.25em;
 }
 
-.phd-student img {
-  width: 160px;
-  margin-right: 25px;
+.student {
+  margin-bottom: 14px;
+  line-height: 1.25;
 }
 
-.phd-info {
-  line-height: 1.5;
+.student:last-child {
+  margin-bottom: 0;
 }
 
-.phd-name {
-  font-size: 1.15em;
+.student-name {
   font-weight: bold;
-}
-
-.phd-topic {
-  margin-top: 10px;
+  font-size: 1em;
 }
 </style>
 
