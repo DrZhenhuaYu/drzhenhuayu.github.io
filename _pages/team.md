@@ -263,15 +263,6 @@ University of Aberdeen
 </h3>
 
 <p style="margin-bottom:6px;">
-<b>MSc students</b>
-</p>
-
-<ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
-<li>Student Name (2025–2026, MSc)</li>
-</ul>
-
-
-<p style="margin-bottom:6px;">
 <b>BSc students</b>
 </p>
 
@@ -303,7 +294,7 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 
 
 <p style="margin-bottom:6px;">
-<b>Assistant supervisor</b> — co-supervised with Prof. Ravi Vaidyanathan
+<b>PhD Assistant supervisor</b> — co-supervised with Prof. Ravi Vaidyanathan
 </p>
 
 <ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
