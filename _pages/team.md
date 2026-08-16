@@ -40,64 +40,55 @@ I have supervised and co-supervised students at various universities and continu
 </div>
 
 ### PhD Students:
-<div>
-  <img align="left" width="200" style="margin-right: 10px" src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg" alt="Cong Liu">
 
-  <b>Cong Liu</b><br />
-  BSc <br />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px 40px;">
 
-  <!--
-  <p>
-    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-  </p>
-  -->
+  <!-- Cong Liu -->
+  <div style="display: flex; align-items: flex-start;">
+    <img width="160"
+         style="margin-right: 15px;"
+         src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg"
+         alt="Cong Liu">
 
-  <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+    <div>
+      <b>Cong Liu</b><br />
+      1st Year PhD<br /><br />
+      <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+    </div>
+  </div>
 
-  <br clear="left"/>
+
+  <!-- Zheng Ma -->
+  <div style="display: flex; align-items: flex-start;">
+    <img width="160"
+         style="margin-right: 15px;"
+         src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG"
+         alt="Zheng Ma">
+
+    <div>
+      <b>Zheng Ma</b><br />
+      1st Year PhD<br /><br />
+      <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+    </div>
+  </div>
+
+
+  <!-- Xiao Jin -->
+  <div style="display: flex; align-items: flex-start;">
+    <img width="160"
+         style="margin-right: 15px;"
+         src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png"
+         alt="Xiao Jin">
+
+    <div>
+      <b>Xiao Jin</b><br />
+      1st Year PhD<br /><br />
+      <a href="https://drzhenhuayu.github.io/">Website</a> |
+      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+    </div>
+  </div>
+
 </div>
-
-<br />
-
-<div>
-  <img align="left" width="200" style="margin-right: 10px" src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG" alt="Zheng Ma">
-
-  <b>Zheng Ma</b><br />
-  BSc Student<br />
-
-  <!--
-  <p>
-    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-  </p>
-  -->
-
-  <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
-
-  <br clear="left"/>
-</div>
-
-<br />
-
-<div>
-  <img align="left" width="200" style="margin-right: 10px" src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png" alt="Xiao Jin">
-
-  <b>Xiao Jin</b><br />
-  BSc, MSc in Imperial<br />
-
-  <!--
-  <p>
-    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-  </p>
-  -->
-
-  <a href="https://drzhenhuayu.github.io/">Website</a> |
-  <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
-
-  <br clear="left"/>
-</div>
-
-<br />
-<br />
 
 ## **Research Assistant**
 
