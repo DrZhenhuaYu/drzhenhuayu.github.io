@@ -34,6 +34,15 @@ ON THIS PAGE
 <h2 id="y2026">2026</h2>
 
 
+
+[5].Boyang Zhao, Bo Xiao, Cong Liu, Xiao Jin, JunMing Ye, Mingjie Yu, <b><u>Zhenhua Yu*</u></b>. “Bovine-LTID: A vision-based spatio-temporal identity system for multi-camera cattle tracking and long-term behavior monitoring”. in Computers and Electronics in Agriculture (2026).
+
+[4].Xiao Jin, Yixian Fan, Zefeng Yuan, <b><u>Zhenhua Yu*</u></b>. “Underwater MMG-Based Muscle State Monitoring with Integrated Emergency Buoyancy Assistance”. in arXiv preprint arXiv:2608.08263.
+
+[3].Sohini Patel, Isabella Abati, Giulia Zamagni,<b><u>Zhenhua Yu</u></b>, Thomas Liney, Susanna Inzoli, Antonio De Sanctis, Liam Corette, Lorenzo Monasta, Ravi Vaidyanathan, Christoph Lees . “Fetal movements are related to maternal characteristics: a prospective ultrasound study”. in American Journal of Obstetrics & Gynaecology MFM (2026).
+
+[2].Xiao Jin,  <b><u>Zhenhua Yu*</u></b>, Thrishantha Nanayakkara. “Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection”. in IEEE Sensors Journal (2026).
+
 [1]. Xiao Jin, Ge Gao, Ravi Vaidyanathan, Peter Childs, <b><u>Zhenhua Yu*</u></b>. “Human-in-the-loop Capacitive Microphone Sensors-Based Muscle Sensing System for Predictive and Adaptive Exoskeleton Assistance”. in IEEE Robotics and Automation Letters (RA-L,Q1) (2026).
 
 
