@@ -296,13 +296,8 @@ Supervisor: Zhenhua Yu, Cong Liu<br>
 Project: Research Project
 </div>
 
-<div style="margin-bottom:13px;">
-<b>Student Name 2</b><br>
-Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
-</div>
 
-</div>
+
 
 
 </div>
@@ -322,13 +317,6 @@ Supervisor: Zhenhua Yu, Zheng Ma<br>
 Project: Research Project
 </div>
 
-<div style="margin-bottom:13px;">
-<b>Student Name 2</b><br>
-Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
-</div>
-
-</div>
 
 
 </div>
