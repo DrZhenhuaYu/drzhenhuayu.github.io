@@ -106,186 +106,91 @@ I have supervised and co-supervised students at various universities and continu
 </div>
 
 ## **Research Assistant**
-
-<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:40px 30px; text-align:center; align-items:start;">
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Yuan%20Zefeng.jpg" alt="Zefeng Yuan" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Zefeng Yuan</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:z.yuan1.24@abdn.ac.uk">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Yan%20Qinghao.jpg" alt="Qinghao Yan" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Qinghao Yan</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:u01qy24@abdn.ac.uk">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Fan%20Yixian.jpg" alt="Yixian Fan" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Yixian Fan</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:fyxfyxals@qq.com">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Li%20Zhuofan.jpg" alt="Zhuofan Li" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Zhuofan Li</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:1439614452@qq.com">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Ding%20Siqi.jpg" alt="Siqi Ding" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Siqi Ding</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:1526041942@qq.com">Email</a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/DaiJiayue.JPG" alt="Jiayue Dai" style="width:180px; height:240px; object-fit:cover; display:block;">
-    <div style="margin-top:12px;">
-      <b>Jiayue Dai</b><br>
-      University of Aberdeen
-    </div>
-    <div style="height:8px;"></div>
-    <a href="mailto:196656714@qq.com">Email</a>
-  </div>
-</div>
-
-
 <style>
-.student-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 24px;
-  margin-top: 25px;
+.research-group {
+  background: #dddddd;
+  padding: 30px 40px;
+  margin-bottom: 25px;
 }
 
-.student-card {
-  background: #d9d9d9;
-  padding: 32px 36px;
-}
-
-.student-card h3 {
+.research-group h2 {
   text-align: center;
   margin-top: 0;
   margin-bottom: 30px;
 }
 
-.student-entry {
-  margin-bottom: 22px;
-  line-height: 1.25;
+.student {
+  margin-bottom: 25px;
+  line-height: 1.35;
 }
 
-.student-entry b {
+.student:last-child {
+  margin-bottom: 0;
+}
+
+.student-name {
+  font-weight: bold;
   font-size: 1.05em;
-}
-
-@media (max-width: 800px) {
-  .student-grid {
-    grid-template-columns: 1fr;
-  }
 }
 </style>
 
-<div class="student-grid">
 
-  <div class="student-card">
-    <h3>PhD Students</h3>
+<!-- ==================== GROUP A ==================== -->
 
-    <div class="student-entry">
-      <b>Cong Liu</b><br>
-      Supervisor: Zhenhua Yu<br>
-      Project: Wearable Biosensing and Intelligent Human-Robot Interaction
-    </div>
+<div class="research-group">
 
-    <div class="student-entry">
-      <b>Zheng Ma</b><br>
-      Supervisor: Zhenhua Yu<br>
-      Project: Mechanomyography and Soft Wearable Robotics
-    </div>
-
-    <div class="student-entry">
-      <b>Xiao Jin</b><br>
-      Supervisors: Zhenhua Yu, XXX<br>
-      Project: Embodied Intelligence and Robotic Interaction
-    </div>
-  </div>
+<h2>Research Group A</h2>
 
 
-  <div class="student-card">
-    <h3>MSc / MEng Students</h3>
-
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Supervisor: Zhenhua Yu<br>
-      Project: Multimodal Wearable Sensing
-    </div>
-
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Supervisor: Zhenhua Yu<br>
-      Project: Vision-Based Robotic Manipulation
-    </div>
-
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Supervisor: Zhenhua Yu<br>
-      Project: Embedded AI for Healthcare Robotics
-    </div>
-  </div>
+<!-- Student -->
+<div class="student">
+<span class="student-name">Student Name 1</span><br>
+Supervisor: Zhenhua Yu<br>
+Project: Wearable Biosensing and Intelligent Human-Robot Interaction
+</div>
 
 
-  <div class="student-card">
-    <h3>Undergraduate Researchers – Group A</h3>
-
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Mentor: Cong Liu<br>
-      Project: Flexible EMG Sensors
-    </div>
-
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Mentor: Zheng Ma<br>
-      Project: MMG-Based Muscle Monitoring
-    </div>
-  </div>
+<!-- Student -->
+<div class="student">
+<span class="student-name">Student Name 2</span><br>
+Supervisor: Zhenhua Yu<br>
+Project: Mechanomyography-Based Muscle Monitoring
+</div>
 
 
-  <div class="student-card">
-    <h3>Undergraduate Researchers – Group B</h3>
+<!-- Student -->
+<div class="student">
+<span class="student-name">Student Name 3</span><br>
+Supervisor: Zhenhua Yu<br>
+Project: Embodied Intelligence for Robotic Systems
+</div>
 
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Mentor: Xiao Jin<br>
-      Project: Vision-Language-Action Robotics
-    </div>
 
-    <div class="student-entry">
-      <b>Student Name</b><br>
-      Mentor: Cong Liu<br>
-      Project: Wearable Human-Machine Interfaces
-    </div>
-  </div>
+</div>
+
+
+<!-- ==================== GROUP B ==================== -->
+
+<div class="research-group">
+
+<h2>Research Group B</h2>
+
+
+<!-- Student -->
+<div class="student">
+<span class="student-name">Student Name 1</span><br>
+Supervisor: Zhenhua Yu<br>
+Project: Multimodal Wearable Sensing
+</div>
+
+
+<!-- Student -->
+<div class="student">
+<span class="student-name">Student Name 2</span><br>
+Supervisor: Zhenhua Yu<br>
+Project: Vision-Based Robotic Manipulation
+</div>
+
 
 </div>
 
