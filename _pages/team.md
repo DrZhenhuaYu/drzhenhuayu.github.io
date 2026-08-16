@@ -92,7 +92,7 @@ I have supervised and co-supervised students at various universities and continu
   <div style="display: flex; align-items: flex-start;">
     <img width="160"
          style="margin-right: 15px;"
-         src="https://drzhenhuayu.github.ioimages/people/Yuxing%20Zhang.jpg"
+         src="https://drzhenhuayu.github.io/images/people/Yuxing%20Zhang.jpg"
          alt="Yuxing Zhang">
 
     <div>
