@@ -173,7 +173,6 @@ Incoming PhD Student
 
 </div>
 
-
 <!-- ================================================== -->
 <!-- Research Assistants                                -->
 <!-- ================================================== -->
@@ -183,14 +182,20 @@ Research Assistants
 </h2>
 
 
+<!-- ================================================== -->
+<!-- Two-column Group Layout                            -->
+<!-- ================================================== -->
+
+<div style="display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:16px; align-items:start;">
+
+
 <!-- ==================== GROUP A ==================== -->
 
-<div style="background:#dddddd; padding:18px 26px; margin-bottom:16px; line-height:1.35;">
+<div style="background:#dddddd; padding:18px 22px; line-height:1.35;">
 
 <h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
 Research Group A
 </h3>
-
 
 <div style="margin-bottom:13px;">
 <b>Qinghao Yan</b><br>
@@ -198,13 +203,11 @@ Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Wearable Biosensing and Intelligent Human–Robot Interaction
 </div>
 
-
 <div style="margin-bottom:13px;">
 <b>Yixian Fan</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Mechanomyography-Based Muscle Monitoring
 </div>
-
 
 <div>
 <b>Jiayue Dai</b><br>
@@ -217,12 +220,11 @@ Project: Embodied Intelligence for Robotic Systems
 
 <!-- ==================== GROUP B ==================== -->
 
-<div style="background:#dddddd; padding:18px 26px; margin-bottom:16px; line-height:1.35;">
+<div style="background:#dddddd; padding:18px 22px; line-height:1.35;">
 
 <h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
 Research Group B
 </h3>
-
 
 <div style="margin-bottom:13px;">
 <b>Zhuofan Li</b><br>
@@ -230,8 +232,7 @@ Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Multimodal Wearable Sensing
 </div>
 
-
-<div>
+<div style="margin-bottom:13px;">
 <b>Siqi Ding</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Vision-Based Robotic Manipulation
@@ -248,39 +249,68 @@ Project: Vision-Based Robotic Manipulation
 
 <!-- ==================== GROUP C ==================== -->
 
-<div style="background:#dddddd; padding:18px 26px; margin-bottom:16px; line-height:1.35;">
+<div style="background:#dddddd; padding:18px 22px; line-height:1.35;">
 
 <h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
 Research Group C
 </h3>
 
+<div style="margin-bottom:13px;">
+<b>Student Name 1</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Research Project
+</div>
 
 <div style="margin-bottom:13px;">
-<b>Zhuofan Li</b><br>
+<b>Student Name 2</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Multimodal Wearable Sensing
-</div>
-
-
-<div>
-<b>Siqi Ding</b><br>
-Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Vision-Based Robotic Manipulation
+Project: Research Project
 </div>
 
 <div>
-<b>Haojun Zhang</b><br>
+<b>Student Name 3</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Vision-Based Robotic Manipulation
+Project: Research Project
 </div>
 
 </div>
 
+
+<!-- ==================== GROUP D ==================== -->
+
+<div style="background:#dddddd; padding:18px 22px; line-height:1.35;">
+
+<h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
+Research Group D
+</h3>
+
+<div style="margin-bottom:13px;">
+<b>Student Name 1</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Research Project
+</div>
+
+<div style="margin-bottom:13px;">
+<b>Student Name 2</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Research Project
+</div>
+
+<div>
+<b>Student Name 3</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Research Project
+</div>
+
+</div>
+
+
+</div>
 <!-- ================================================== -->
 <!-- Alumni                                             -->
 <!-- ================================================== -->
 
-<div style="background:#f5f5f5; padding:20px 24px; margin-top:30px; margin-bottom:20px;">
+<div style="background-color:#e8e8e8; padding:20px 24px; margin-top:30px; margin-bottom:20px; width:100%; box-sizing:border-box;">
 
 <h2 style="font-size:1.35em; margin-top:0; margin-bottom:14px;">
 Alumni
@@ -290,11 +320,7 @@ Alumni
 My students have pursued diverse career paths: some have joined leading companies such as Huawei and startup companies, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 </p>
 
-
-<!-- ================================================== -->
-<!-- University of Aberdeen                             -->
-<!-- ================================================== -->
-
+<!-- University of Aberdeen -->
 <div style="margin-left:20px;">
 
 <h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
@@ -313,10 +339,7 @@ University of Aberdeen
 </div>
 
 
-<!-- ================================================== -->
-<!-- Imperial College London                            -->
-<!-- ================================================== -->
-
+<!-- Imperial College London -->
 <div style="margin-left:20px;">
 
 <h3 style="font-size:1.15em; margin-top:22px; margin-bottom:10px;">
@@ -330,7 +353,6 @@ Imperial's Activate Student Mentoring Programme
 </a>
 at the Department of Mechanical Engineering, where I supported PhD students in their academic and professional development.
 </p>
-
 
 <p style="margin-bottom:6px;">
 <b>PhD Assistant Supervisor</b> — co-supervised with Prof. Ravi Vaidyanathan
@@ -352,7 +374,6 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 
 </ul>
 
-
 <p style="margin-bottom:6px;">
 <b>MSc students</b>
 </p>
@@ -360,7 +381,6 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 <ul style="margin-top:6px; margin-bottom:14px; margin-left:20px;">
 <li>Xiao Jin (2023–2025, BSc, MSc)</li>
 </ul>
-
 
 <p style="margin-bottom:6px;">
 <b>BSc students</b>
@@ -373,19 +393,4 @@ at the Department of Mechanical Engineering, where I supported PhD students in t
 
 </div>
 
-</div>
-
-
-<div style="display:none;">
-<script type="text/javascript"
-id="mapmyvisitors"
-src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a">
-</script>
-</div>
-
-<div style="display:none;">
-<script type="text/javascript"
-id="clustrmaps"
-src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
-</script>
 </div>
