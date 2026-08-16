@@ -225,20 +225,56 @@ Research Group B
 
 
 <div style="margin-bottom:13px;">
-<b>Student Name 1</b><br>
-Supervisor: Zhenhua Yu<br>
+<b>Zhuofan Li</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Multimodal Wearable Sensing
 </div>
 
 
 <div>
-<b>Student Name 2</b><br>
-Supervisor: Zhenhua Yu<br>
+<b>Siqi Ding</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Vision-Based Robotic Manipulation
+</div>
+
+<div>
+<b>Haojun Zhang</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
 Project: Vision-Based Robotic Manipulation
 </div>
 
 </div>
 
+
+<!-- ==================== GROUP C ==================== -->
+
+<div style="background:#dddddd; padding:18px 26px; margin-bottom:16px; line-height:1.35;">
+
+<h3 style="text-align:center; font-size:1.15em; margin-top:0; margin-bottom:16px;">
+Research Group C
+</h3>
+
+
+<div style="margin-bottom:13px;">
+<b>Zhuofan Li</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Multimodal Wearable Sensing
+</div>
+
+
+<div>
+<b>Siqi Ding</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Vision-Based Robotic Manipulation
+</div>
+
+<div>
+<b>Haojun Zhang</b><br>
+Supervisor: Zhenhua Yu, Xiao Jin<br>
+Project: Vision-Based Robotic Manipulation
+</div>
+
+</div>
 
 <!-- ================================================== -->
 <!-- Alumni                                             -->
