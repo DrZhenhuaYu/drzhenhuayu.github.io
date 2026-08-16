@@ -12,15 +12,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-
-
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Honors"
-    url: /honors/
+ #  - title: "Honours"
+ #    url: /honors/
 
-  - title: "Services"
+  - title: "Gallery"
     url: /services/
 
   - title: "Outreach"
