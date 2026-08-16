@@ -88,6 +88,21 @@ I have supervised and co-supervised students at various universities and continu
     </div>
   </div>
 
+  <!-- Yuxing Zhang -->
+  <div style="display: flex; align-items: flex-start;">
+    <img width="160"
+         style="margin-right: 15px;"
+         src="https://drzhenhuayu.github.ioimages/people/Yuxing%20Zhang.jpg"
+         alt="Yuxing Zhang">
+
+    <div>
+      <b>Yuxing Zhang</b><br />
+      Incoming 1st Year PhD<br /><br />
+      <a href="https://drzhenhuayu.github.io/">Website</a> |
+      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+    </div>
+  </div>
+
 </div>
 
 ## **Research Assistant**
@@ -153,6 +168,125 @@ I have supervised and co-supervised students at various universities and continu
     <div style="height:8px;"></div>
     <a href="mailto:196656714@qq.com">Email</a>
   </div>
+</div>
+
+
+<style>
+.student-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  margin-top: 25px;
+}
+
+.student-card {
+  background: #d9d9d9;
+  padding: 32px 36px;
+}
+
+.student-card h3 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.student-entry {
+  margin-bottom: 22px;
+  line-height: 1.25;
+}
+
+.student-entry b {
+  font-size: 1.05em;
+}
+
+@media (max-width: 800px) {
+  .student-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="student-grid">
+
+  <div class="student-card">
+    <h3>PhD Students</h3>
+
+    <div class="student-entry">
+      <b>Cong Liu</b><br>
+      Supervisor: Zhenhua Yu<br>
+      Project: Wearable Biosensing and Intelligent Human-Robot Interaction
+    </div>
+
+    <div class="student-entry">
+      <b>Zheng Ma</b><br>
+      Supervisor: Zhenhua Yu<br>
+      Project: Mechanomyography and Soft Wearable Robotics
+    </div>
+
+    <div class="student-entry">
+      <b>Xiao Jin</b><br>
+      Supervisors: Zhenhua Yu, XXX<br>
+      Project: Embodied Intelligence and Robotic Interaction
+    </div>
+  </div>
+
+
+  <div class="student-card">
+    <h3>MSc / MEng Students</h3>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Supervisor: Zhenhua Yu<br>
+      Project: Multimodal Wearable Sensing
+    </div>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Supervisor: Zhenhua Yu<br>
+      Project: Vision-Based Robotic Manipulation
+    </div>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Supervisor: Zhenhua Yu<br>
+      Project: Embedded AI for Healthcare Robotics
+    </div>
+  </div>
+
+
+  <div class="student-card">
+    <h3>Undergraduate Researchers – Group A</h3>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Mentor: Cong Liu<br>
+      Project: Flexible EMG Sensors
+    </div>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Mentor: Zheng Ma<br>
+      Project: MMG-Based Muscle Monitoring
+    </div>
+  </div>
+
+
+  <div class="student-card">
+    <h3>Undergraduate Researchers – Group B</h3>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Mentor: Xiao Jin<br>
+      Project: Vision-Language-Action Robotics
+    </div>
+
+    <div class="student-entry">
+      <b>Student Name</b><br>
+      Mentor: Cong Liu<br>
+      Project: Wearable Human-Machine Interfaces
+    </div>
+  </div>
+
 </div>
 
 ## **Alumni**
