@@ -5,25 +5,41 @@ permalink: /news/
 author_profile: true
 ---
 
-**Coming talks**
+<div style="font-size:0.88em; line-height:1.45;">
 
 
-**Past talks**
+<!-- ================================================== -->
+<!-- News                                               -->
+<!-- ================================================== -->
 
-- Integrated Application of Mobile Robots and Smart Wearable Devices for Smart Home Healthcare,Department of Mechanical Engineering, Beihang University Nov, 2024
-- School of Engineering Mathematics and Technology, University of Bristol July, 2024
-- Towards the Future of Integrated Application of Mobile Robots and Smart Wearable Devices, Department of Mechanical Engineering, University of Bath Jun, 2024
-- School of Mechanical and Aerospace Engineering, Queen’s University Belfast April, 2024
-- Division of Integrative Systems and Design, Hong Kong University of Science and Technology Nov, 2023
-- Physical reservoir computing for Mobile Robot Environment Perception and Navigation, Invited talk on Department of Computer Science, Shandong Universty Sep, 2023
-- Invited talk on 2nd International Conference on Embodied Intelligence 2022
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[11/2024]</b>
+I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department.
+</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[11/2024]</b>
+I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen.
+</p>
 
 
-<div style="display:none;">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a"></script>
 </div>
+
+
+<!-- ================================================== -->
+<!-- Visitor Maps                                       -->
+<!-- ================================================== -->
+
 <div style="display:none;">
-<script type="text/javascript" id="clustrmaps"
+<script type="text/javascript"
+id="mapmyvisitors"
+src="//mapmyvisitors.com/map.js?d=j7FDWI1wzKKEzCWLohxh7IFyPRkDO_Yoq8ehLPPnKB8&cl=ffffff&w=a">
+</script>
+</div>
+
+<div style="display:none;">
+<script type="text/javascript"
+id="clustrmaps"
 src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a">
 </script>
 </div>
