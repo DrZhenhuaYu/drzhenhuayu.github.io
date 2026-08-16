@@ -41,66 +41,127 @@ I have supervised and co-supervised students at various universities and continu
 
 ### PhD Students:
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px 40px;">
+<style>
+.phd-student {
+  display: flex;
+  align-items: flex-start;
+  background: #eeeeee;
+  padding: 20px;
+  margin-bottom: 20px;
+}
 
-  <!-- Cong Liu -->
-  <div style="display: flex; align-items: flex-start;">
-    <img width="160"
-         style="margin-right: 15px;"
-         src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg"
-         alt="Cong Liu">
+.phd-student img {
+  width: 160px;
+  margin-right: 25px;
+}
 
-    <div>
-      <b>Cong Liu</b><br />
-      1st Year PhD<br /><br />
-      <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+.phd-info {
+  line-height: 1.5;
+}
+
+.phd-name {
+  font-size: 1.15em;
+  font-weight: bold;
+}
+
+.phd-topic {
+  margin-top: 10px;
+}
+</style>
+
+
+<!-- ==================== Cong Liu ==================== -->
+
+<div class="phd-student">
+
+  <img src="https://drzhenhuayu.github.io/images/people/Liu%20Cong.jpg"
+       alt="Cong Liu">
+
+  <div class="phd-info">
+
+    <span class="phd-name">Cong Liu</span><br>
+    1st Year PhD
+
+    <div class="phd-topic">
+      <b>Research Topic:</b> Wearable Biosensing and Intelligent Human–Robot Interaction
     </div>
+
+    <br>
+    <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
+
   </div>
 
+</div>
 
-  <!-- Zheng Ma -->
-  <div style="display: flex; align-items: flex-start;">
-    <img width="160"
-         style="margin-right: 15px;"
-         src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG"
-         alt="Zheng Ma">
 
-    <div>
-      <b>Zheng Ma</b><br />
-      1st Year PhD<br /><br />
-      <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+<!-- ==================== Zheng Ma ==================== -->
+
+<div class="phd-student">
+
+  <img src="https://drzhenhuayu.github.io/images/people/Zheng%20Ma.JPG"
+       alt="Zheng Ma">
+
+  <div class="phd-info">
+
+    <span class="phd-name">Zheng Ma</span><br>
+    1st Year PhD
+
+    <div class="phd-topic">
+      <b>Research Topic:</b> Wearable Sensing and Soft Robotic Systems
     </div>
+
+    <br>
+    <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+
   </div>
 
+</div>
 
-  <!-- Xiao Jin -->
-  <div style="display: flex; align-items: flex-start;">
-    <img width="160"
-         style="margin-right: 15px;"
-         src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png"
-         alt="Xiao Jin">
 
-    <div>
-      <b>Xiao Jin</b><br />
-      1st Year PhD<br /><br />
-      <a href="https://drzhenhuayu.github.io/">Website</a> |
-      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+<!-- ==================== Xiao Jin ==================== -->
+
+<div class="phd-student">
+
+  <img src="https://drzhenhuayu.github.io/images/people/Jin%20Xiao.png"
+       alt="Xiao Jin">
+
+  <div class="phd-info">
+
+    <span class="phd-name">Xiao Jin</span><br>
+    1st Year PhD
+
+    <div class="phd-topic">
+      <b>Research Topic:</b> Embodied Intelligence and Intelligent Robotic Systems
     </div>
+
+    <br>
+    <a href="https://drzhenhuayu.github.io/">Website</a> |
+    <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+
   </div>
 
-  <!-- Yuxing Zhang -->
-  <div style="display: flex; align-items: flex-start;">
-    <img width="160"
-         style="margin-right: 15px;"
-         src="https://drzhenhuayu.github.io/images/people/Yuxing%20Zhang.jpg"
-         alt="Yuxing Zhang">
+</div>
 
-    <div>
-      <b>Yuxing Zhang</b><br />
-      Incoming 1st Year PhD<br /><br />
-      <a href="https://drzhenhuayu.github.io/">Website</a> |
-      <a href="mailto:xiao.jin@imperial.ac.uk">Email</a>
+
+<!-- ==================== Yuxing Zhang ==================== -->
+
+<div class="phd-student">
+
+  <img src="https://drzhenhuayu.github.io/images/people/Yuxing%20Zhang.jpg"
+       alt="Yuxing Zhang">
+
+  <div class="phd-info">
+
+    <span class="phd-name">Yuxing Zhang</span><br>
+    Incoming PhD Student
+
+    <div class="phd-topic">
+      <b>Research Topic:</b> Multimodal Wearable Sensing for Human–Robot Interaction
     </div>
+
+    <br>
+    <a href="mailto:EMAIL">Email</a>
+
   </div>
 
 </div>
