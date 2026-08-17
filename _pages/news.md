@@ -25,6 +25,17 @@ author_profile: true
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [Event]  I was appointed as the director of the SCNU–ABDN Joint Laboratory for Multimodal Intelligent Robotics. </p>
 
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[6/2026]</b> [News]  Honoured to represent the University of Aberdeen at the graduation ceremony of the Aberdeen Institute of Data Science and Artificial Intelligence at South China Normal University. </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[5/2026]</b> [Paper]  Congrats, <span style="color:red;"><b> Boyang Zhao, a second-year undergraduate student in my group! First-author paper </b></span> was accepted by the top journal Computers and Electronics in Agriculture! </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[5/2026]</b> [Paper] 1 paper accepted by American Journal of Obstetrics & Gynecology. Thanks my collaborators! </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[5/2026]</b> [Award] Congrats, Cong for winning a Travel Grant to attend the SCNU YSE programme.  </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[02/2026]</b> [Member] Welcome Mr.Cong Liu join to our group as a PhD student. </p>
