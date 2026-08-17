@@ -23,7 +23,9 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 <!-- University of Aberdeen                             -->
 <!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
+<div style="background:#f3f3f3; padding:18px 24px; margin-bottom:20px;">
+
+<h3 style="font-size:1.15em; margin-top:0; margin-bottom:8px;">
 At the University of Aberdeen
 </h3>
 
@@ -40,7 +42,7 @@ At the University of Aberdeen
 </ul>
 
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:16px 0;">
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:14px 0;">
 
 <img src="/images/teaching/2026-teaching1.jpg"
      alt="Teaching at the University of Aberdeen"
@@ -55,7 +57,7 @@ At the University of Aberdeen
 </div>
 
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<ul style="margin-top:6px; margin-bottom:0; padding-left:24px;">
 
 <li style="margin-bottom:5px;">
 <b>Lecturer</b>, JC3011 Enterprise Computing and Business, Department of Computer Science, University of Aberdeen.
@@ -63,12 +65,16 @@ At the University of Aberdeen
 
 </ul>
 
+</div>
+
 
 <!-- ================================================== -->
 <!-- Imperial College London                            -->
 <!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
+<div style="background:#e8e8e8; padding:18px 24px; margin-bottom:20px;">
+
+<h3 style="font-size:1.15em; margin-top:0; margin-bottom:8px;">
 At Imperial College London
 </h3>
 
@@ -82,7 +88,7 @@ At Imperial College London
 </ul>
 
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:16px 0;">
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:14px 0;">
 
 <img src="/images/teaching/2026-teachingIC1.jpg"
      alt="Teaching at Imperial College London"
@@ -97,7 +103,7 @@ At Imperial College London
 </div>
 
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<ul style="margin-top:6px; margin-bottom:0; padding-left:24px;">
 
 <li style="margin-bottom:5px;">
 <b>Teaching Fellow</b>, Cyber-Physical Systems, Master's module, Dyson School of Design Engineering, Imperial College London, 2022–2023. I taught this module with
@@ -112,6 +118,8 @@ and
 </li>
 
 </ul>
+
+</div>
 
 
 </div>
