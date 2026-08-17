@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Services and Membership"
+title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
@@ -11,176 +11,110 @@ author_profile: true
 
 
 <!-- ================================================== -->
-<!-- Service at Aberdeen                                -->
+<!-- Gallery Item 1                                     -->
 <!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
-Service at the University of Aberdeen
+<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+
+<h3 style="text-align:center; font-size:1.20em; margin-top:0; margin-bottom:16px;">
+2026 Lab Activities
 </h3>
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-bottom:16px;">
 
-<li style="margin-bottom:3px;">
-Postgraduate Research Leader in the School of Natural and Computing Sciences, University of Aberdeen
-</li>
+<img src="/images/gallery/activity1-1.jpg"
+     alt="Lab Activity"
+     style="width:46%; max-width:420px; height:auto;">
 
-<li style="margin-bottom:3px;">
-Director of the Multimodal Intelligent Robotics Lab, University of Aberdeen
-</li>
+<img src="/images/gallery/activity1-2.jpg"
+     alt="Lab Activity"
+     style="width:46%; max-width:420px; height:auto;">
 
-</ul>
+</div>
 
-
-<!-- ================================================== -->
-<!-- Grant Reviewing                                    -->
-<!-- ================================================== -->
-
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
-Reviewer for Grants
-</h3>
-
-<p style="margin-top:0; margin-bottom:6px;">
-As a member of the <b>UKRI Talent Peer Review College</b>:
+<p style="text-align:center; font-weight:bold; margin-top:0; margin-bottom:10px;">
+Academic Visit and Research Exchange
 </p>
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<p style="margin-top:0; margin-bottom:8px;">
+It was our great pleasure to welcome our collaborators to the Multimodal Intelligent Robotics Lab at the University of Aberdeen.
+</p>
 
-<li style="margin-bottom:3px;">
-UKRI Future Leaders Fellowship
-</li>
+<p style="margin-top:0; margin-bottom:0;">
+During the visit, we discussed ongoing research, future collaboration, and opportunities in intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
+</p>
 
-<li style="margin-bottom:3px;">
-EPSRC New Investigator Award
-</li>
-
-<li style="margin-bottom:3px;">
-EPSRC Open Fellowship
-</li>
-
-<li style="margin-bottom:3px;">
-EPSRC Standard Research Grant
-</li>
-
-<li style="margin-bottom:3px;">
-EPSRC proposals involving overseas collaboration
-</li>
-
-</ul>
+</div>
 
 
 <!-- ================================================== -->
-<!-- Journal Reviewing                                  -->
+<!-- Gallery Item 2                                     -->
 <!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
-Reviewer for Journals (Selected)
+<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+
+<h3 style="text-align:center; font-size:1.20em; margin-top:0; margin-bottom:16px;">
+2026 Lab Activities
 </h3>
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<div style="text-align:center; margin-bottom:16px;">
 
-<li style="margin-bottom:3px;">
-IEEE/ASME Transactions on Mechatronics
-</li>
+<img src="/images/gallery/activity2.jpg"
+     alt="Lab Activity"
+     style="width:65%; max-width:620px; height:auto;">
 
-<li style="margin-bottom:3px;">
-IEEE Robotics and Automation Letters
-</li>
+</div>
 
-<li style="margin-bottom:3px;">
-IEEE Transactions on Automation Science and Engineering
-</li>
+<p style="text-align:center; font-weight:bold; margin-top:0; margin-bottom:10px;">
+Research Group Visit
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE Transactions on Industrial Informatics
-</li>
+<p style="margin-top:0; margin-bottom:8px;">
+We were delighted to host our collaborators at the University of Aberdeen for research discussions and laboratory visits.
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE Transactions on Instrumentation and Measurement
-</li>
+<p style="margin-top:0; margin-bottom:0;">
+The visit provided an opportunity to exchange research ideas and explore future collaborative projects.
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE Transactions on Control Systems Technology
-</li>
-
-<li style="margin-bottom:3px;">
-Control Engineering Practice
-</li>
-
-<li style="margin-bottom:3px;">
-Mechatronics
-</li>
-
-<li style="margin-bottom:3px;">
-Transportation Research Part C
-</li>
-
-<li style="margin-bottom:3px;">
-International Journal of Intelligent Robotics and Applications
-</li>
-
-</ul>
+</div>
 
 
 <!-- ================================================== -->
-<!-- Conference Reviewing                               -->
+<!-- Gallery Item 3                                     -->
 <!-- ================================================== -->
 
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
-Reviewer for Conferences (Selected)
+<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+
+<h3 style="text-align:center; font-size:1.20em; margin-top:0; margin-bottom:16px;">
+2026 Joint Lab Activities
 </h3>
 
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-bottom:16px;">
 
-<li style="margin-bottom:3px;">
-Robotics: Science and Systems (RSS)
-</li>
+<img src="/images/gallery/activity3-1.jpg"
+     alt="Joint Lab Activity"
+     style="width:46%; max-width:420px; height:auto;">
 
-<li style="margin-bottom:3px;">
-IEEE International Conference on Robotics and Automation (ICRA)
-</li>
+<img src="/images/gallery/activity3-2.jpg"
+     alt="Joint Lab Activity"
+     style="width:46%; max-width:420px; height:auto;">
 
-<li style="margin-bottom:3px;">
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-</li>
+</div>
 
-<li style="margin-bottom:3px;">
-IEEE International Conference on Soft Robotics (RoboSoft)
-</li>
+<p style="text-align:center; font-weight:bold; margin-top:0; margin-bottom:10px;">
+Joint Laboratory Activities
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
-</li>
+<p style="margin-top:0; margin-bottom:8px;">
+Members of our partner institutions visited the Multimodal Intelligent Robotics Lab to discuss ongoing research collaboration and the development of joint research activities.
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE International Conference on Automation Science and Engineering (CASE)
-</li>
+<p style="margin-top:0; margin-bottom:0;">
+The discussions focused on intelligent robotics, wearable technologies, embodied intelligence, student exchanges, and future joint projects.
+</p>
 
-<li style="margin-bottom:3px;">
-IEEE International Conference on Intelligent Transportation Systems (ITSC)
-</li>
-
-</ul>
-
-
-<!-- ================================================== -->
-<!-- Membership                                         -->
-<!-- ================================================== -->
-
-<h3 style="font-size:1.15em; margin-top:20px; margin-bottom:8px;">
-Professional Membership
-</h3>
-
-<ul style="margin-top:6px; margin-bottom:10px; padding-left:24px;">
-
-<li style="margin-bottom:3px;">
-Member, IEEE
-</li>
-
-<li style="margin-bottom:3px;">
-Member, Chinese Association for Artificial Intelligence
-</li>
-
-</ul>
+</div>
 
 
 </div>
