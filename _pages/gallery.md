@@ -9,13 +9,13 @@ author_profile: true
 
 <div style="font-size:0.88em; line-height:1.40;">
 
+
 <!-- ================================================== -->
 <!-- Gallery Item 3                                     -->
 <!-- ================================================== -->
 
 <div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
 
-<!-- Date -->
 <p style="
     text-align:left;
     font-size:1.05em;
@@ -27,7 +27,6 @@ author_profile: true
 June 2026
 </p>
 
-<!-- Images -->
 <div style="
     display:flex;
     justify-content:center;
@@ -46,7 +45,6 @@ June 2026
 
 </div>
 
-<!-- Title -->
 <p style="
     text-align:center;
     font-weight:bold;
@@ -56,7 +54,6 @@ June 2026
 Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab
 </p>
 
-<!-- Description -->
 <p style="margin:0 0 7px 0;">
 It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen (ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
 </p>
@@ -76,22 +73,43 @@ The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b
 <!-- Gallery Item 2                                     -->
 <!-- ================================================== -->
 
-<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
 
-<div style="display:flex; justify-content:center; align-items:center; margin-bottom:16px;">
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+April 2026
+</p>
+
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:0 0 10px 0;
+">
 
 <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260415Aberdeen.jpg"
      alt="Multimodal Intelligent Robotics Lab Team at ABDN-SCNU"
-     style="width:46%; max-width:420px; height:auto;">
+     style="width:46%; max-width:420px; height:auto; display:block;">
 
 </div>
 
-<p style="text-align:center; font-weight:bold; font-size:1.05em; margin-top:0; margin-bottom:10px;">
-Multimodal Intelligent Robotics Lab Team at ABDN-SCNU (April, 2026)
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Multimodal Intelligent Robotics Lab Team at ABDN–SCNU
 </p>
 
-<p style="margin-top:0; margin-bottom:0;">
-Members of the <b>Multimodal Intelligent Robotics Lab</b> at <b>South China Normal University (SCNU)</b>. Our team brings together PhD researchers, master's and undergraduate students, working on multimodal intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
+<p style="margin:0;">
+Members of the <b>Multimodal Intelligent Robotics Lab</b> at <b>South China Normal University (SCNU)</b>. Our team brings together PhD researchers, master's and undergraduate students working on multimodal intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
 </p>
 
 </div>
@@ -101,27 +119,51 @@ Members of the <b>Multimodal Intelligent Robotics Lab</b> at <b>South China Norm
 <!-- Gallery Item 1                                     -->
 <!-- ================================================== -->
 
-<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
 
-<div style="display:flex; justify-content:center; align-items:center; margin-bottom:16px;">
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+March 2026
+</p>
+
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:0 0 10px 0;
+">
 
 <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
      alt="Multimodal Intelligent Robotics Lab Team at ABDN"
-     style="width:46%; max-width:420px; height:auto;">
+     style="width:46%; max-width:420px; height:auto; display:block;">
 
 </div>
 
-<p style="text-align:center; font-weight:bold; font-size:1.05em; margin-top:0; margin-bottom:10px;">
-Multimodal Intelligent Robotics Lab Team at ABDN (March, 2026)
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Multimodal Intelligent Robotics Lab Team at the University of Aberdeen
 </p>
 
-<p style="margin-top:0; margin-bottom:0;">
-Members of the <b>Multimodal Intelligent Robotics Lab</b> at the <b>University of Aberdeen</b>. Our team brings together PhD researchers, master's and undergraduate students, working on multimodal intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
+<p style="margin:0;">
+Members of the <b>Multimodal Intelligent Robotics Lab</b> at the <b>University of Aberdeen</b>. Our team brings together PhD researchers, master's and undergraduate students working on multimodal intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
 </p>
 
 </div>
 
+
 </div>
+
+
 <!-- ================================================== -->
 <!-- Visitor Maps                                       -->
 <!-- ================================================== -->
