@@ -23,7 +23,7 @@ author_profile: true
     margin:0 0 5px 0;
     line-height:1.2;
 ">
-June 2026
+July 2026
 </p>
 
 <div style="
@@ -34,35 +34,27 @@ June 2026
     margin:0 0 10px 0;
 ">
 
-<img src="/images/gallery/2026-06visit1.jpg"
+<img src="/images/gallery/2026-07visit1.jpg"
      alt="SCNU Delegation Visit"
      style="width:46%; max-width:420px; height:auto; display:block;">
 
-<img src="/images/gallery/2026-06visit2.jpg"
+<img src="/images/gallery/2026-07visit2.jpg"
      alt="ABDN-SCNU Joint Laboratory Signing"
      style="width:46%; max-width:420px; height:auto; display:block;">
 
 </div>
-
+<!-- Title -->
 <p style="
     text-align:center;
     font-weight:bold;
     font-size:1.05em;
     margin:0 0 8px 0;
 ">
-Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab
+Welcoming Visitors from Universiti Kebangsaan Malaysia to the Multimodal Intelligent Robotics Lab
 </p>
-
-<p style="margin:0 0 7px 0;">
-It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen (ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
-</p>
-
-<p style="margin:0 0 7px 0;">
-The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b> formally signed an agreement to establish the <b>Joint Laboratory for Multimodal Intelligent Robotics</b>, providing a framework for long-term collaboration in intelligent robotics, wearable technologies, research exchange, and joint student training.
-</p>
-
+<!-- Description -->
 <p style="margin:0;">
-<b>Zhenhua was appointed as Director of the ABDN–SCNU Joint Laboratory for Multimodal Intelligent Robotics.</b>
+It was a great pleasure to welcome <b>Dr Xiao Li</b>, <b>Dr Ahmad Fazlizan Abdullah</b>, and <b>Ubaidah Syafiq</b> from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> at the <b>University of Aberdeen</b>. During the visit, we introduced our ongoing research and laboratory facilities and discussed potential future collaborations in intelligent robotics, wearable technologies, and artificial intelligence.
 </p>
 
 </div>
