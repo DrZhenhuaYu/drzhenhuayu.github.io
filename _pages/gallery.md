@@ -10,59 +10,7 @@ author_profile: true
 <div style="font-size:0.88em; line-height:1.40;">
 
 <!-- ================================================== -->
-<!-- Gallery Item 4                                     -->
-<!-- ================================================== -->
-
-<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
-
-<p style="
-    text-align:left;
-    font-size:1.05em;
-    font-weight:700;
-    color:#4f5458;
-    margin:0 0 5px 0;
-    line-height:1.2;
-">
-June 2026
-</p>
-
-<div style="
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    gap:18px;
-    margin:0 0 10px 0;
-">
-
-<img src="/images/gallery/2026-06graduation1.jpg"
-     alt="SCNU Delegation Visit"
-     style="width:46%; max-width:420px; height:auto; display:block;">
-
-<img src="/images/gallery/2026-06graduation2.jpg"
-     alt="ABDN-SCNU Joint Laboratory Signing"
-     style="width:46%; max-width:420px; height:auto; display:block;">
-
-</div>
-
-<p style="
-    text-align:center;
-    font-weight:bold;
-    font-size:1.05em;
-    margin:0 0 8px 0;
-">
-Graduation Ceremony at the SCNU Aberdeen Institute of Data Science and Artificial Intelligence
-</p>
-
-<!-- Description -->
-<p style="margin:0;">
-Zhenhua attended the graduation ceremony of the <b>SCNU Aberdeen Institute of Data Science and Artificial Intelligence</b> at <b>South China Normal University (SCNU)</b> as a faculty representative of the <b>University of Aberdeen</b>. It was a great pleasure to celebrate this important milestone with the graduating students and colleagues from both universities.
-</p>
-
-</div>
-
-
-<!-- ================================================== -->
-<!-- Gallery Item 3                                     -->
+<!-- Gallery Item 5                                     -->
 <!-- ================================================== -->
 
 <div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
@@ -119,6 +67,119 @@ The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b
 
 </div>
 
+
+
+<!-- ================================================== -->
+<!-- Gallery Item 4                                     -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+June 2026
+</p>
+
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:18px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/2026-06visit1.jpg"
+     alt="SCNU Delegation Visit"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-06visit2.jpg"
+     alt="ABDN-SCNU Joint Laboratory Signing"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+</div>
+
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab
+</p>
+
+<p style="margin:0 0 7px 0;">
+It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen (ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
+</p>
+
+<p style="margin:0 0 7px 0;">
+The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b> formally signed an agreement to establish the <b>Joint Laboratory for Multimodal Intelligent Robotics</b>, providing a framework for long-term collaboration in intelligent robotics, wearable technologies, research exchange, and joint student training.
+</p>
+
+<p style="margin:0;">
+<b>Zhenhua was appointed as Director of the ABDN–SCNU Joint Laboratory for Multimodal Intelligent Robotics.</b>
+</p>
+
+</div>
+
+
+
+
+<!-- ================================================== -->
+<!-- Gallery Item 3                                     -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+June 2026
+</p>
+
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:18px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/2026-06graduation1.jpg"
+     alt="SCNU Delegation Visit"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-06graduation2.jpg"
+     alt="ABDN-SCNU Joint Laboratory Signing"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+</div>
+
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Graduation Ceremony at the SCNU Aberdeen Institute of Data Science and Artificial Intelligence
+</p>
+
+<!-- Description -->
+<p style="margin:0;">
+Zhenhua attended the graduation ceremony of the <b>SCNU Aberdeen Institute of Data Science and Artificial Intelligence</b> at <b>South China Normal University (SCNU)</b> as a faculty representative of the <b>University of Aberdeen</b>. It was a great pleasure to celebrate this important milestone with the graduating students and colleagues from both universities.
+</p>
+
+</div>
 
 <!-- ================================================== -->
 <!-- Gallery Item 2                                     -->
