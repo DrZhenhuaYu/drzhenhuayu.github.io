@@ -66,10 +66,20 @@ author_profile: true
 <b>[1/2026]</b> [Paper]  Congrats, Xiao! First-author paper was accepted by the top journal IEEE Sensors Journal! </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[12/2025]</b> [News] Zhenhua was invited to visit Ocean University of China for academic exchange.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[12/2025]</b> [Paper] 1 paper accepted by the Frontiers in Bioengineering and Biotechnology. Thanks, my collaborators! </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[11/2025]</b> [News] Zhenhua was invited to visit Beijing Institute of Technology and delivered an invited talk.</p>
+<p style="margin-top:0; margin-bottom:10px;">
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[11/2025]</b> [Member] Welcome Mr.Zheng Ma to join to our group as a PhD student. </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[11/2025]</b> [Event] Zhenhua was invited to participate in the Shaanxi Silk Road Youth Forum.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[11/2025]</b>  [Grant] Zhenhua received the Scotland Interface Innovation Funding as Principal Investigator to support research and development in wearable sensing and intelligent healthcare technologies. </p>
@@ -100,6 +110,9 @@ author_profile: true
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[12/2024]</b> [Appointment] Zhenhua was awarded an <b>Honorary Lecturer</b> in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[11/2024]</b> [News] Zhenhua was invited to participate in the Northwestern Polytechnical University Young Scholars Forum and delivered an invited talk. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[11/2024]</b>  [Appointment] Zhenhua started my new position as a <b>Lecturer</b> (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
