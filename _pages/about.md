@@ -143,25 +143,6 @@ Opportunities
 section.
 </p>
 
-
-<ul style="margin-top:8px; margin-bottom:10px; padding-left:25px;">
-
-<li style="margin-bottom:4px;">
-
-<a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">
-MSCA Postdoctoral Fellowships
-</a>.
-
-If you are interested in applying for an MSCA Postdoctoral Fellowship with me as the host, please contact me and send your CV. The 2026 call opens on 9 April 2026, with the deadline on
-
-<b>
-<span style="color:red;">
-9 September 2026
-</span>
-</b>.
-
-</li>
-
 </ul>
 
 
