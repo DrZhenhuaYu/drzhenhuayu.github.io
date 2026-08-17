@@ -89,7 +89,7 @@ At Imperial College London
      width="400"
      style="width:48%; max-width:400px; height:auto;">
 
-<img src="/images/teaching/2026-teachingIC2.png"
+<img src="/images/teaching/2026-teachingIC2.jpg"
      alt="Teaching at Imperial College London"
      width="400"
      style="width:48%; max-width:400px; height:auto;">
