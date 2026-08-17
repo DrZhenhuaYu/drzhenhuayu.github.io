@@ -26,7 +26,9 @@ author_profile: true
      style="width:46%; max-width:420px; height:auto;">
 
 </div>
-
+<p style="text-align:left; font-size:0.82em; color:#777; margin-top:0; margin-bottom:6px;">
+June 2026
+</p>
 <p style="text-align:center; font-weight:bold; font-size:1.05em; margin-top:0; margin-bottom:10px;">
 Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab(June,2026)
 </p>
