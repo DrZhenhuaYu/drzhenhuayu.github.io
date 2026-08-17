@@ -9,43 +9,42 @@ author_profile: true
 
 <div style="font-size:0.88em; line-height:1.40;">
 
-
 <!-- ================================================== -->
 <!-- Gallery Item 1                                     -->
 <!-- ================================================== -->
 
 <div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
 
-<h3 style="text-align:center; font-size:1.20em; margin-top:0; margin-bottom:16px;">
-2026 Lab Activities
-</h3>
-
 <div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-bottom:16px;">
 
 <img src="/images/gallery/2026-06visit1.jpg"
-     alt="Lab Activity"
+     alt="SCNU Delegation Visit"
      style="width:46%; max-width:420px; height:auto;">
 
 <img src="/images/gallery/2026-06visit2.jpg"
-     alt="Lab Activity"
+     alt="ABDN-SCNU Joint Laboratory Signing"
      style="width:46%; max-width:420px; height:auto;">
 
 </div>
 
-<p style="text-align:center; font-weight:bold; margin-top:0; margin-bottom:10px;">
-Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab
+<p style="text-align:center; font-weight:bold; font-size:1.05em; margin-top:0; margin-bottom:10px;">
+Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab(June,2026)
+</p>
+
+<p style="margin-top:0; margin-bottom:8px;">
+It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen(ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
+</p>
+
+<p style="margin-top:0; margin-bottom:8px;">
+The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b> formally signed an agreement to establish the <b>Joint Laboratory for Multimodal Intelligent Robotics</b>, providing a framework for long-term collaboration in intelligent robotics, wearable technologies, research exchange, and joint student training.
 </p>
 
 <p style="margin-top:0; margin-bottom:0;">
-It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen. During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
-<p style="margin-top:0; margin-bottom:0;">
-The <b>University of Aberdeen</b> and <b>South China Normal University (SCNU)</b> formally signed an agreement to establish the <b>Joint Laboratory for Multimodal Intelligent Robotics</b>, providing a framework for long-term collaboration in intelligent robotics, wearable technologies, research exchange, and joint student training.
-
-Zhenhua was appointed as the director of the ABDN–SCNU Joint Laboratory for Multimodal Intelligent Robotics.
-</p>    
+<b>Zhenhua was appointed as Director of the ABDN–SCNU Joint Laboratory for Multimodal Intelligent Robotics.</b>
 </p>
 
 </div>
+
 
 
 
