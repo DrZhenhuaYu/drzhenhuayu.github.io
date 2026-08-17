@@ -3,58 +3,72 @@
 <style>
 
 /* ==================================================
-   Sticky Masthead
+   GLOBAL STICKY HEADER
    ================================================== */
 
 .masthead {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-  z-index: 9999;
-  background: #ffffff;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 9999 !important;
+
+  background: #ffffff !important;
+
+  box-shadow:
+    0 2px 5px rgba(0, 0, 0, 0.08) !important;
 }
 
 
 /* ==================================================
-   Lab Information
+   LAB INFORMATION
    ================================================== */
 
 .lab-header {
+  width: 100%;
   text-align: center;
-  padding: 6px 0 10px 0;
-  line-height: 1.25;
+
+  padding-top: 2px;
+  padding-bottom: 9px;
+
+  line-height: 1.20;
 }
+
 
 .lab-header-name {
-  font-size: 1.15em;
+  font-size: 1.05em;
   font-weight: 700;
-  margin-bottom: 3px;
+  color: #4a4a4a;
+
+  margin: 0 0 3px 0;
 }
 
+
 .lab-header-person {
-  font-size: 0.86em;
+  font-size: 0.78em;
   font-weight: 400;
-  opacity: 0.75;
+  color: #777777;
+
+  margin: 0;
 }
 
 
 /* ==================================================
-   Mobile
+   MOBILE
    ================================================== */
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
 
   .lab-header {
-    padding: 5px 0 8px 0;
+    padding-top: 3px;
+    padding-bottom: 7px;
   }
 
   .lab-header-name {
-    font-size: 1em;
+    font-size: 0.95em;
   }
 
   .lab-header-person {
-    font-size: 0.80em;
+    font-size: 0.72em;
   }
 
 }
@@ -66,9 +80,10 @@
 
   <div class="masthead__inner-wrap">
 
-    <!-- ==================================================
-         Navigation
-         ================================================== -->
+
+    <!-- ==============================================
+         NAVIGATION
+         ============================================== -->
 
     <div class="masthead__menu">
 
@@ -78,31 +93,43 @@
           <div class="navicon"></div>
         </button>
 
+
         <ul class="visible-links">
 
           <li class="masthead__menu-item masthead__menu-item--lg">
+
             <a href="{{ base_path }}/">
               {{ site.title }}
             </a>
+
           </li>
+
 
           {% for link in site.data.navigation.main %}
 
             {% if link.url contains 'http' %}
+
               {% assign domain = '' %}
+
             {% else %}
+
               {% assign domain = base_path %}
+
             {% endif %}
 
+
             <li class="masthead__menu-item">
+
               <a href="{{ domain }}{{ link.url }}">
                 {{ link.title }}
               </a>
+
             </li>
 
           {% endfor %}
 
         </ul>
+
 
         <ul class="hidden-links hidden"></ul>
 
@@ -111,9 +138,9 @@
     </div>
 
 
-    <!-- ==================================================
-         Laboratory Name
-         ================================================== -->
+    <!-- ==============================================
+         LAB NAME
+         ============================================== -->
 
     <div class="lab-header">
 
@@ -122,10 +149,11 @@
       </div>
 
       <div class="lab-header-person">
-        Dr Zhenhua Yu
+        Dr Zhenhua Yu · Director
       </div>
 
     </div>
+
 
   </div>
 
