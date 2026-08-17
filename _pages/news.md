@@ -57,7 +57,7 @@ author_profile: true
 <b>[3/2026]</b> [Member] Welcome Mr.Cong Liu to join our group as a PhD student. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[2/2026]</b>  [Grant] Zhenhua was awarded a <b>Royal Society of Edinburgh (RSE) research grant</b> as Principal Investigator.</p></p>
+<b>[2/2026]</b>  [Grant] Zhenhua was awarded a <b>Royal Society of Edinburgh (RSE) research grant</b> as Principal Investigator.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[1/2026]</b> [Paper]  Congrats, Xiao! First-author paper was accepted by the top journal IEEE Robotics and Automation Letters! </p>
@@ -116,9 +116,6 @@ author_profile: true
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[11/2024]</b>  [Appointment] Zhenhua started my new position as a <b>Lecturer</b> (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
-
-</div>
-
 
 <!-- ================================================== -->
 <!-- Visitor Maps                                       -->
