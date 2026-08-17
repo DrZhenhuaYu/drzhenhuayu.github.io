@@ -13,9 +13,15 @@ author_profile: true
 <!-- Gallery Item 3                                     -->
 <!-- ================================================== -->
 
-<div style="background:#eeeeee; padding:22px 26px; margin-bottom:20px;">
+<div style="background:#eeeeee; padding:18px 26px 22px 26px; margin-bottom:20px;">
 
-<div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-bottom:16px;">
+<!-- Date -->
+<p style="text-align:left; font-size:0.90em; font-weight:bold; color:#4f5458; margin-top:0; margin-bottom:6px;">
+June 2026
+</p>
+
+<!-- Images -->
+<div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-top:0; margin-bottom:14px;">
 
 <img src="/images/gallery/2026-06visit1.jpg"
      alt="SCNU Delegation Visit"
@@ -26,15 +32,15 @@ author_profile: true
      style="width:46%; max-width:420px; height:auto;">
 
 </div>
-<p style="text-align:left; font-size:0.82em; color:#777; margin-top:0; margin-bottom:6px;">
-June 2026
-</p>
+
+<!-- Title -->
 <p style="text-align:center; font-weight:bold; font-size:1.05em; margin-top:0; margin-bottom:10px;">
-Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab(June,2026)
+Welcoming the South China Normal University Delegation to the Multimodal Intelligent Robotics Lab
 </p>
 
+<!-- Description -->
 <p style="margin-top:0; margin-bottom:8px;">
-It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen(ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
+It was a great pleasure to welcome a delegation from <b>South China Normal University (SCNU)</b> to visit the <b>Multimodal Intelligent Robotics Lab</b> led by Zhenhua at the University of Aberdeen (ABDN). During the visit, the delegation toured the laboratory and discussed ongoing and future research collaborations in multimodal intelligent robotics, wearable technologies, and artificial intelligence.
 </p>
 
 <p style="margin-top:0; margin-bottom:8px;">
