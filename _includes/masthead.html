@@ -1,23 +1,132 @@
 {% include base_path %}
 
+<style>
+
+/* ==================================================
+   Sticky Masthead
+   ================================================== */
+
+.masthead {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 9999;
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+
+/* ==================================================
+   Lab Information
+   ================================================== */
+
+.lab-header {
+  text-align: center;
+  padding: 6px 0 10px 0;
+  line-height: 1.25;
+}
+
+.lab-header-name {
+  font-size: 1.15em;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.lab-header-person {
+  font-size: 0.86em;
+  font-weight: 400;
+  opacity: 0.75;
+}
+
+
+/* ==================================================
+   Mobile
+   ================================================== */
+
+@media (max-width: 600px) {
+
+  .lab-header {
+    padding: 5px 0 8px 0;
+  }
+
+  .lab-header-name {
+    font-size: 1em;
+  }
+
+  .lab-header-person {
+    font-size: 0.80em;
+  }
+
+}
+
+</style>
+
+
 <div class="masthead">
+
   <div class="masthead__inner-wrap">
+
+    <!-- ==================================================
+         Navigation
+         ================================================== -->
+
     <div class="masthead__menu">
+
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+
+        <button>
+          <div class="navicon"></div>
+        </button>
+
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">
+              {{ site.title }}
+            </a>
+          </li>
+
           {% for link in site.data.navigation.main %}
+
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">
+                {{ link.title }}
+              </a>
+            </li>
+
           {% endfor %}
+
         </ul>
+
         <ul class="hidden-links hidden"></ul>
+
       </nav>
+
     </div>
+
+
+    <!-- ==================================================
+         Laboratory Name
+         ================================================== -->
+
+    <div class="lab-header">
+
+      <div class="lab-header-name">
+        Multimodal Intelligent Robotics Lab
+      </div>
+
+      <div class="lab-header-person">
+        Dr Zhenhua Yu
+      </div>
+
+    </div>
+
   </div>
+
 </div>
