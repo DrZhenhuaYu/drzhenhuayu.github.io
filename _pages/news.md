@@ -20,6 +20,16 @@ author_profile: true
 <b>[08/2026]</b> [Member] Welcome Mr.Xuxing Zhang join to our group as a PhD student. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[07/2026]</b> [News] Zhenhua was invited to serve as a <b>Guest Editor</b> for the <i>Biomimetics</i> Special Issue, <b>“Advances in Bio-Inspired Intelligent Robot”</b>.
+</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[07/2026]</b> [News] Zhenhua participated in the <b>UK–India Workshop on Applied AI and Digital Skills for Women in STEM</b>.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[07/2026]</b> [News] I welcomed Dr Xiao Li, Dr Ahmad Fazlizan Abdullah, and Ubaidah Syafiq from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit our Multimodal Intelligent Robotics Laboratory at the University of Aberdeen.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [Event] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
@@ -38,7 +48,13 @@ author_profile: true
 <b>[5/2026]</b> [Award] Congrats, Cong for winning a Travel Grant to attend the SCNU YSE programme.  </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[4/2026]</b> [News] Zhenhua was invited to visit <b>Runjian Co., Ltd.</b> to learn more about industry needs and potential university–industry collaboration.  </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[02/2026]</b> [Member] Welcome Mr.Cong Liu to join our group as a PhD student. </p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[2/2026]</b>  [Grant] Zhenhua was awarded a <b>Royal Society of Edinburgh (RSE) research grant</b> as Principal Investigator.</p></p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[1/2026]</b> [Paper]  Congrats, Xiao! First-author paper was accepted by the top journal IEEE Robotics and Automation Letters! </p>
@@ -53,7 +69,7 @@ author_profile: true
 <b>[11/2025]</b> [Member] Welcome Mr.Zheng Ma to join to our group as a PhD student. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[11/2025]</b>  [Grant] I received the Scotland Interface Innovation Funding to support research and development in wearable sensing and intelligent healthcare technologies.. </p>
+<b>[11/2025]</b>  [Grant] Zhenhua received the Scotland Interface Innovation Funding as Principal Investigator to support research and development in wearable sensing and intelligent healthcare technologies. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[10/2025]</b> [Paper]  Congrats, Xiao! First-author paper was accepted by the top journal IEEE Sensors Journal! </p>
