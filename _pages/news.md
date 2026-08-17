@@ -99,10 +99,10 @@ author_profile: true
 <b>[1/2025]</b> [Book] <i>Handbook on Soft Robotics</i> was published, with Zhenhua as one of the contributing authors.
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[12/2024]</b> [Appointment] Zhenhua was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
+<b>[12/2024]</b> [Appointment] Zhenhua was awarded an <b>Honorary Lecturer</b> in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[11/2024]</b>  [Appointment] Zhenhua started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
+<b>[11/2024]</b>  [Appointment] Zhenhua started my new position as a <b>Lecturer</b> (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
 
 </div>
 
