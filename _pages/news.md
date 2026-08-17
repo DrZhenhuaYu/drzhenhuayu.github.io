@@ -33,10 +33,10 @@ author_profile: true
 <b>[2026]</b> [Award] Congratulations to <b>Quanshi Zhan</b>, an undergraduate thesis student supervised by Zhenhua, on being recognised as an <b>Outstanding Graduate of the University of Aberdeen</b>.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[6/2026]</b> [Event] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
+<b>[6/2026]</b> [News] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[6/2026]</b> [Event]  Zhenhua was appointed as the director of the SCNU–ABDN Joint Laboratory for Multimodal Intelligent Robotics. </p>
+<b>[6/2026]</b> [Appointment]  Zhenhua was appointed as the director of the SCNU–ABDN Joint Laboratory for Multimodal Intelligent Robotics. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [News]  Zhenhua represented the University of Aberdeen at the graduation ceremony of the Aberdeen Institute of Data Science and Artificial Intelligence at South China Normal University. </p>
@@ -87,6 +87,9 @@ author_profile: true
 <b>[8/2025]</b> [Talk] Zhenhua was invited to give a talk at Huazhong University of Science and Technology (HUST) </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[07/2025]</b> [Appointment] Zhenhua was appointed as the <b>PGR Lead</b> in the School of Natural and Computing Sciences, supporting the development of the new PhD programme with SCNU and wider PhD recruitment from China, including through CSC Scholarships and international partnerships.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2025]</b> [Paper] 1 paper accepted by the European Journal of Obstetrics & Gynecology and Reproductive Biology. Thanks, my collaborators! </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
@@ -96,10 +99,10 @@ author_profile: true
 <b>[1/2025]</b> [Book] <i>Handbook on Soft Robotics</i> was published, with Zhenhua as one of the contributing authors.
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[12/2024]</b> [News] I was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
+<b>[12/2024]</b> [Appointment] Zhenhua was awarded an Honorary Lectureship in the Department of Mechanical Engineering at Imperial College London, in recognition of my contributions to the Department. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[11/2024]</b>  [News]I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
+<b>[11/2024]</b>  [Appointment] Zhenhua started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
 
 </div>
 
