@@ -48,7 +48,7 @@ author_profile: true
 <b>[5/2026]</b> [Award] Congrats, Cong for winning a Travel Grant to attend the SCNU YSE programme.  </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[4/2026]</b> [News] Zhenhua was invited to visit <b>Runjian Co., Ltd.</b> to learn more about industry needs and potential university–industry collaboration.  </p>
+<b>[4/2026]</b> [News] Zhenhua was invited to visit Runjian Co., Ltd. to learn more about industry needs and potential university–industry collaboration.  </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[02/2026]</b> [Member] Welcome Mr.Cong Liu to join our group as a PhD student. </p>
@@ -97,9 +97,6 @@ author_profile: true
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[11/2024]</b>  [News]I started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Aberdeen. </p>
-
-
-
 
 </div>
 
