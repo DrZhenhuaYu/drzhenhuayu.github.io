@@ -30,7 +30,7 @@ author_profile: true
 <b>[7/2026]</b> [News] I welcomed Dr Xiao Li, Dr Ahmad Fazlizan Abdullah, and Ubaidah Syafiq from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit our Multimodal Intelligent Robotics Laboratory at the University of Aberdeen.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[6/2026]</b> [Award] Congratulations to <b>Quanshi Zhan</b>, an undergraduate thesis student supervised by Zhenhua, on being recognised as an <b>Outstanding Graduate of the University of Aberdeen</b>.</p>
+<b>[6/2026]</b> [Award] Congratulations to Quanshi Zhan, an undergraduate thesis student supervised by Zhenhua, on being recognised as an Outstanding Graduate of the University of Aberdeen.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [News] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
