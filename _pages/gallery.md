@@ -9,6 +9,68 @@ author_profile: true
 
 <div style="font-size:0.88em; line-height:1.40;">
 
+
+
+
+<!-- ================================================== -->
+<!-- Gallery Item - Aberdeen Colleagues Visit           -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<!-- Date -->
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+2026
+</p>
+
+<!-- Three Images -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/2026-08visit1.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-08visit2.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-08visit3.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+</div>
+
+<!-- Title -->
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Welcoming Colleagues from the University of Aberdeen to Our Laboratory
+</p>
+
+<!-- Description -->
+<p style="margin:0;">
+It was a great pleasure to welcome colleagues from the <b>University of Aberdeen</b> to visit our laboratory. During the visit, we introduced our research facilities and ongoing projects and exchanged ideas on future research and collaboration in intelligent robotics, wearable technologies, embodied intelligence, and artificial intelligence.
+</p>
+
+</div>
+
+
 <!-- ================================================== -->
 <!-- Gallery Item 5                                     -->
 <!-- ================================================== -->
