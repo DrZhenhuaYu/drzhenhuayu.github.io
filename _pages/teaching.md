@@ -42,12 +42,12 @@ At the University of Aberdeen
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:16px 0;">
 
-<img src="/images/teaching/teaching-prompt-engineering-1.jpg"
+<img src="/images/teaching/2026-teaching1.jpg"
      alt="Teaching at the University of Aberdeen"
      width="400"
      style="width:48%; max-width:400px; height:auto;">
 
-<img src="/images/teaching/teaching-prompt-engineering-2.jpg"
+<img src="/images/teaching/2026-teaching2.jpg"
      alt="Teaching at the University of Aberdeen"
      width="400"
      style="width:48%; max-width:400px; height:auto;">
@@ -84,12 +84,12 @@ At Imperial College London
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:10px; margin:16px 0;">
 
-<img src="/images/teaching/teaching-DL-1.jpg"
+<img src="/images/teaching/2026-teachingIC1.jpg"
      alt="Teaching at Imperial College London"
      width="400"
      style="width:48%; max-width:400px; height:auto;">
 
-<img src="/images/teaching/teaching-DL-2.png"
+<img src="/images/teaching/2026-teachingIC2.png"
      alt="Teaching at Imperial College London"
      width="400"
      style="width:48%; max-width:400px; height:auto;">
