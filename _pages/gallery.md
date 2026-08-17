@@ -27,7 +27,7 @@ author_profile: true
     margin:0 0 5px 0;
     line-height:1.2;
 ">
-2026
+Aug 2026
 </p>
 
 <!-- Three Images -->
