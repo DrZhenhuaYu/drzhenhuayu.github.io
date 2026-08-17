@@ -9,6 +9,57 @@ author_profile: true
 
 <div style="font-size:0.88em; line-height:1.40;">
 
+<!-- ================================================== -->
+<!-- Gallery Item 4                                     -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+June 2026
+</p>
+
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:18px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/2026-06graduation1.jpg"
+     alt="SCNU Delegation Visit"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-06graduation2.jpg"
+     alt="ABDN-SCNU Joint Laboratory Signing"
+     style="width:46%; max-width:420px; height:auto; display:block;">
+
+</div>
+
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Graduation Ceremony at the SCNU Aberdeen Institute of Data Science and Artificial Intelligence
+</p>
+
+<!-- Description -->
+<p style="margin:0;">
+Zhenhua attended the graduation ceremony of the <b>SCNU Aberdeen Institute of Data Science and Artificial Intelligence</b> at <b>South China Normal University (SCNU)</b> as a faculty representative of the <b>University of Aberdeen</b>. It was a great pleasure to celebrate this important milestone with the graduating students and colleagues from both universities.
+</p>
+
+</div>
+
 
 <!-- ================================================== -->
 <!-- Gallery Item 3                                     -->
