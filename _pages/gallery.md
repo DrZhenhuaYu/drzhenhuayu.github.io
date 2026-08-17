@@ -26,7 +26,7 @@ author_profile: true
      alt="Lab Activity"
      style="width:46%; max-width:420px; height:auto;">
 
-<img src="/images/gallery/2026-06visit1.jpg"
+<img src="/images/gallery/2026-06visit2.jpg"
      alt="Lab Activity"
      style="width:46%; max-width:420px; height:auto;">
 
