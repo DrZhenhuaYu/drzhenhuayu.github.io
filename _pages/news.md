@@ -30,6 +30,9 @@ author_profile: true
 <b>[07/2026]</b> [News] I welcomed Dr Xiao Li, Dr Ahmad Fazlizan Abdullah, and Ubaidah Syafiq from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit our Multimodal Intelligent Robotics Laboratory at the University of Aberdeen.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
+<b>[2026]</b> [Award] Congratulations to <b>Quanshi Zhan</b>, an undergraduate thesis student supervised by Zhenhua, on being recognised as an <b>Outstanding Graduate of the University of Aberdeen</b>.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [Event] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
@@ -39,7 +42,7 @@ author_profile: true
 <b>[6/2026]</b> [News]  Zhenhua represented the University of Aberdeen at the graduation ceremony of the Aberdeen Institute of Data Science and Artificial Intelligence at South China Normal University. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[5/2026]</b> [Paper]  Congrats, <span style="color:red;"><b> Boyang Zhao, a second-year undergraduate student in my group! First-author paper </b></span> was accepted by the top journal Computers and Electronics in Agriculture! </p>
+<b>[5/2026]</b> [Paper]  Congrats, <b> Boyang Zhao, a second-year undergraduate student in my group! First-author paper </b> was accepted by the top journal Computers and Electronics in Agriculture! </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[5/2026]</b> [Paper] 1 paper accepted by the American Journal of Obstetrics & Gynecology. Thanks my collaborators! </p>
