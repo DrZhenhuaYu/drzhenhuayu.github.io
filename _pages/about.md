@@ -31,13 +31,8 @@ Bio
 </h2>
 
 <p style="margin-top:0; margin-bottom:10px;">
-Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) at the
-<a href="https://www.abdn.ac.uk/ncs/departments/computing-science/" target="_blank">
-University of Aberdeen
-</a>, UK, and also an Honorary Lecturer in the Department of Mechanical Engineering at
-<a href="https://www.imperial.ac.uk/mechanical-engineering/" target="_blank">
-Imperial College London
-</a>.
+Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) at the <a href="https://www.abdn.ac.uk/ncs/departments/computing-science/" target="_blank"> University of Aberdeen </a>, UK, and also an Honorary Lecturer in the Department of Mechanical Engineering at <a href="https://www.imperial.ac.uk/mechanical-engineering/" target="_blank"> Imperial College London</a>.
+He is the <b>Director of the Multimodal Intelligent Robotics Lab</b> and also serves as <b>Co-Director of the University of Aberdeen–South China Normal University Joint Laboratory for Multimodal Intelligent Robotics</b>.
 </p>
 
 
