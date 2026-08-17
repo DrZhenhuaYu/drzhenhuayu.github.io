@@ -20,17 +20,17 @@ author_profile: true
 <b>[08/2026]</b> [Member] Welcome Mr.Xuxing Zhang join to our group as a PhD student. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[07/2026]</b> [News] Zhenhua was invited to serve as a <b>Guest Editor</b> for the <i>Biomimetics</i> Special Issue, <b>“Advances in Bio-Inspired Intelligent Robot”</b>.
+<b>[7/2026]</b> [News] Zhenhua was invited to serve as a <b>Guest Editor</b> for the <i>Biomimetics</i> Special Issue, <b>“Advances in Bio-Inspired Intelligent Robot”</b>.
 </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[07/2026]</b> [News] Zhenhua participated in the <b>UK–India Workshop on Applied AI and Digital Skills for Women in STEM</b>.</p>
+<b>[7/2026]</b> [News] Zhenhua participated in the UK–India Workshop on Applied AI and Digital Skills for Women in STEM.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[07/2026]</b> [News] I welcomed Dr Xiao Li, Dr Ahmad Fazlizan Abdullah, and Ubaidah Syafiq from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit our Multimodal Intelligent Robotics Laboratory at the University of Aberdeen.</p>
+<b>[7/2026]</b> [News] I welcomed Dr Xiao Li, Dr Ahmad Fazlizan Abdullah, and Ubaidah Syafiq from <b>Universiti Kebangsaan Malaysia (UKM)</b> to visit our Multimodal Intelligent Robotics Laboratory at the University of Aberdeen.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[2026]</b> [Award] Congratulations to <b>Quanshi Zhan</b>, an undergraduate thesis student supervised by Zhenhua, on being recognised as an <b>Outstanding Graduate of the University of Aberdeen</b>.</p>
+<b>[6/2026]</b> [Award] Congratulations to <b>Quanshi Zhan</b>, an undergraduate thesis student supervised by Zhenhua, on being recognised as an <b>Outstanding Graduate of the University of Aberdeen</b>.</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[6/2026]</b> [News] A delegation group from South China Normal University visited my Multimodal Intelligent Robotics Lab at the University of Aberdeen, where we discussed ongoing and future collaboration in intelligent robotics and signed an MoU to establish a joint collaboration.</p>
@@ -54,7 +54,7 @@ author_profile: true
 <b>[4/2026]</b> [News] Zhenhua was invited to visit Runjian Co., Ltd. to learn more about industry needs and potential university–industry collaboration.  </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
-<b>[02/2026]</b> [Member] Welcome Mr.Cong Liu to join our group as a PhD student. </p>
+<b>[3/2026]</b> [Member] Welcome Mr.Cong Liu to join our group as a PhD student. </p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[2/2026]</b>  [Grant] Zhenhua was awarded a <b>Royal Society of Edinburgh (RSE) research grant</b> as Principal Investigator.</p></p>
