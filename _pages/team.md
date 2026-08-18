@@ -83,7 +83,7 @@ style="width:160px; max-width:160px; height:auto; margin-right:20px; flex-shrink
 1st Year PhD
 
 <div style="margin-top:7px;">
-<b>Research Topic:</b> Wearable Biosensing and Intelligent Human–Robot Interaction
+<b>Research Topic:</b> Wearable Muscle Health Monitoring and Electrical Stimulation-Assisted Rehabilitation
 </div>
 
 <div style="margin-top:7px;">
@@ -110,7 +110,7 @@ style="width:160px; max-width:160px; height:auto; margin-right:20px; flex-shrink
 1st Year PhD
 
 <div style="margin-top:7px;">
-<b>Research Topic:</b> Wearable Sensing and Soft Robotic Systems
+<b>Research Topic:</b> Wearable Textiles for Health Monitoring and Human–Machine Interaction
 </div>
 
 <div style="margin-top:7px;">
@@ -166,7 +166,7 @@ style="width:160px; max-width:160px; height:auto; margin-right:20px; flex-shrink
 Incoming PhD Student
 
 <div style="margin-top:7px;">
-<b>Research Topic:</b> Multimodal Wearable Sensing for Human–Robot Interaction
+<b>Research Topic:</b> Multimodal Sensing and Fusion for Hand Health Monitoring
 </div>
 
 </div>
@@ -229,19 +229,19 @@ Research Group B
 <div style="margin-bottom:13px;">
 <b>Zhuofan Li</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Multimodal Wearable Sensing
+Project: MMG-Based Muscle Health Monitoring
 </div>
 
 <div style="margin-bottom:13px;">
 <b>Siqi Ding</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Vision-Based Robotic Manipulation
+Project: Intelligent MMG-Based Muscle Sensing
 </div>
 
 <div>
 <b>Haojun Zhang</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Vision-Based Robotic Manipulation
+Project: Novel MMG Sensor Design and Sensing
 </div>
 
 </div>
@@ -258,25 +258,25 @@ Research Group C
 <div style="margin-bottom:13px;">
 <b>Fengliang Liu</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
+Project: Soft Robotic Gripping Hand
 </div>
 
 <div style="margin-bottom:13px;">
 <b>Jiayi Zheng</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
+Project: Bio-Inspired Soft Gripper Based on an Elephant Trunk
 </div>
 
 <div>
 <b>Xiang Luo</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
+Project: Robotic Arm Manipulation and Grasping
 </div>
 
 <div>
 <b>Yijing Liao</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: Research Project
+Project: 
 </div>
 
 </div>
@@ -293,7 +293,7 @@ Research Group D
 <div style="margin-bottom:13px;">
 <b>Yumo Jia</b><br>
 Supervisor: Zhenhua Yu, Cong Liu<br>
-Project: Research Project
+Project: Flexible Electrical Stimulation and Facial Health Monitoring
 </div>
 
 
@@ -311,7 +311,7 @@ Research Group E
 <div style="margin-bottom:13px;">
 <b>Han Huang</b><br>
 Supervisor: Zhenhua Yu, Zheng Ma<br>
-Project: Research Project
+Project: Wearable Textile-Based Human–Machine Interaction
 </div>
 
 
