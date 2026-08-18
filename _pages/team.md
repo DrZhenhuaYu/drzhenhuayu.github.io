@@ -276,7 +276,7 @@ Project: Robotic Arm Manipulation and Grasping
 <div>
 <b>Yijing Liao</b><br>
 Supervisor: Zhenhua Yu, Xiao Jin<br>
-Project: 
+Project: Intelligent Fall Prevention
 </div>
 
 </div>
