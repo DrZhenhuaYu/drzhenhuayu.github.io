@@ -15,6 +15,12 @@ author_profile: true
 
 
 
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[8/2026]</b> [News] Zhenhua was invited to serve as a <b>Guest Editor</b> for the MDPI <i>Biomimetics</i> Special Issue, <b>“Advances in Bio-Inspired Intelligent Robot”</b>.</p>
+
+<p style="margin-top:0; margin-bottom:10px;">
+<b>[8/2026]</b> [News] The Special Issue <b>“Advances in Bio-Inspired Intelligent Robot”</b>, guest-edited by Zhenhua and Dr Xiao Bo, is now online in <i>Biomimetics</i> and open for submissions. 
+<a href="https://www.mdpi.com/journal/biomimetics/special_issues/F437N23E85" target="_blank">[Special Issue]</a></p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[08/2026]</b> [Member] Welcome Mr.Xuxing Zhang join to our group as a PhD student. </p>
