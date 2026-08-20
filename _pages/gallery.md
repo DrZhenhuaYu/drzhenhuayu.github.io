@@ -47,10 +47,6 @@ Aug 2026
      alt="University of Aberdeen Colleagues Visiting the Lab"
      style="width:32%; max-width:280px; height:auto; display:block;">
 
-<img src="/images/gallery/2026-08visit3.jpg"
-     alt="University of Aberdeen Colleagues Visiting the Lab"
-     style="width:32%; max-width:280px; height:auto; display:block;">
-
 </div>
 
 <!-- Title -->
