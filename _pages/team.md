@@ -28,30 +28,51 @@ At the University of Aberdeen, I lead the <b>Multimodal Intelligent Robotics Lab
 <!-- Team Photos                                        -->
 <!-- ================================================== -->
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin:22px 0 28px 0;">
+<!-- First Row: Two Photos -->
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin:22px 0 18px 0;">
 
 <div style="text-align:center; width:48%;">
 
 <img width="470"
 src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg"
-alt="Intelligent Robotics Laboratory"
+alt="Multimodal Intelligent Robotics Lab Team at the University of Aberdeen"
 style="width:100%; max-width:470px; height:auto;">
 
-<p style="font-size:0.82em; color:#666; margin-top:6px;">
+<p style="font-size:0.82em; color:#666; margin-top:6px; margin-bottom:0;">
 Our research team at the University of Aberdeen, March 2026.
 </p>
 
 </div>
 
+
 <div style="text-align:center; width:48%;">
 
 <img width="470"
 src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260415Aberdeen.jpg"
-alt="Intelligent Robotics Laboratory"
+alt="Multimodal Intelligent Robotics Lab Team"
 style="width:100%; max-width:470px; height:auto;">
 
-<p style="font-size:0.82em; color:#666; margin-top:6px;">
-Our research team at the University of Aberdeen, April 2026.
+<p style="font-size:0.82em; color:#666; margin-top:6px; margin-bottom:0;">
+Our research team, April 2026.
+</p>
+
+</div>
+
+</div>
+
+
+<!-- Second Row: One Photo -->
+<div style="display:flex; justify-content:center; margin:0 0 28px 0;">
+
+<div style="text-align:center; width:48%;">
+
+<img width="470"
+src="/images/gallery/202608201Abderdeen.jpg"
+alt="Multimodal Intelligent Robotics Lab Foshan Research Base"
+style="width:100%; max-width:470px; height:auto;">
+
+<p style="font-size:0.82em; color:#666; margin-top:6px; margin-bottom:0;">
+Our research team at the Foshan Research Base, August 2026.
 </p>
 
 </div>
