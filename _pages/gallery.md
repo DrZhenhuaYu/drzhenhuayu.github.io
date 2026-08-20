@@ -13,6 +13,64 @@ author_profile: true
 
 
 <!-- ================================================== -->
+<!-- Gallery Item - Research Team in Foshan           -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<!-- Date -->
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+Aug 2026
+</p>
+
+<!-- Three Images -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/202608201Abderdeen.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+<img src="/images/gallery/202608202Abderdeen.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+<img src="/images/gallery/2026-08visit3.jpg"
+     alt="University of Aberdeen Colleagues Visiting the Lab"
+     style="width:32%; max-width:280px; height:auto; display:block;">
+
+</div>
+
+<!-- Title -->
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Multimodal Intelligent Robotics Lab – Foshan Research Base
+</p>
+
+<!-- Description -->
+<p style="margin:0;">
+Our latest team photo at the <b>Foshan Research Base of the Multimodal Intelligent Robotics Lab</b>, August 2026. In addition to our research activities at the <b>University of Aberdeen</b>, the lab maintains a research base in <b>Foshan, China</b>, supporting research, student training, and collaboration in multimodal intelligent robotics, wearable sensing, embodied intelligence, and human–robot interaction.
+</p>
+
+</div>
+
+<!-- ================================================== -->
 <!-- Gallery Item - Aberdeen Colleagues Visit           -->
 <!-- ================================================== -->
 
