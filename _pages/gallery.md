@@ -11,6 +11,77 @@ author_profile: true
 
 
 
+<!-- ================================================== -->
+<!-- Gallery Item - University of Aberdeen Delegation   -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<!-- Date -->
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+Sep 2026
+</p>
+
+<!-- Four Images in One Row -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/20260901.png"
+     alt="University of Aberdeen Delegation Visit - Photo 1"
+     loading="lazy"
+     style="width:24%; height:auto; display:block;">
+
+<img src="/images/gallery/20260902.png"
+     alt="University of Aberdeen Delegation Visit - Photo 2"
+     loading="lazy"
+     style="width:24%; height:auto; display:block;">
+
+<img src="/images/gallery/20260903.png"
+     alt="University of Aberdeen Delegation Visit - Photo 3"
+     loading="lazy"
+     style="width:24%; height:auto; display:block;">
+
+<img src="/images/gallery/20260904.png"
+     alt="University of Aberdeen Delegation Visit - Photo 4"
+     loading="lazy"
+     style="width:24%; height:auto; display:block;">
+
+</div>
+
+<!-- Title -->
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+University of Aberdeen Delegation Visit to South China Normal University
+</p>
+
+<!-- Description -->
+<p style="margin:0 0 7px 0;">
+In September 2026, Zhenhua joined an <b>official delegation from the University of Aberdeen</b> visiting <b>South China Normal University</b> in Foshan, China, to discuss new opportunities for international academic collaboration, joint research, and institutional partnerships.
+</p>
+
+<p style="margin:0;">
+The visit also supported further discussions on the development of the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b>, strengthening research collaboration, academic exchanges, and joint talent development between the two universities.
+</p>
+
+</div>
+
+
 
 <!-- ================================================== -->
 <!-- Gallery Item - Research Team in Foshan           -->
