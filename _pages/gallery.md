@@ -28,7 +28,8 @@ author_profile: true
 Nov 2026
 </p>
 
-<!-- Three Images in One Row -->
+
+<!-- Three Images in One Row - Uniform Size -->
 <div style="
     display:flex;
     justify-content:center;
@@ -38,19 +39,37 @@ Nov 2026
 ">
 
 <img src="/images/gallery/20261101.jpg"
-     alt="Prof. Thrishantha Nanayakkara visiting the Foshan Joint Robotics Laboratory"
+     alt="Prof. Thrishantha Nanayakkara visiting the Joint Robotics Laboratory"
      loading="lazy"
-     style="width:32%; height:auto; display:block;">
+     style="
+         width:32%;
+         aspect-ratio:4/3;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+     ">
 
 <img src="/images/gallery/20261102.jpg"
      alt="Research discussions with Prof. Thrishantha Nanayakkara"
      loading="lazy"
-     style="width:32%; height:auto; display:block;">
+     style="
+         width:32%;
+         aspect-ratio:4/3;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+     ">
 
 <img src="/images/gallery/20261103.jpg"
      alt="Invited lecture by Prof. Thrishantha Nanayakkara"
      loading="lazy"
-     style="width:32%; height:auto; display:block;">
+     style="
+         width:32%;
+         aspect-ratio:4/3;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+     ">
 
 </div>
 
