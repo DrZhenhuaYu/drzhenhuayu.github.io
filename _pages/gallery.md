@@ -87,8 +87,6 @@ Welcoming Prof. Thrishantha Nanayakkara from Imperial College London to visit th
 It was a great pleasure to welcome <b>Prof. Thrishantha Nanayakkara</b> from <b>Imperial College London</b>, Zhenhua's PhD supervisor, to the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b> in Foshan, China. During his visit, Prof. Nanayakkara toured the laboratory, engaged in research discussions, and delivered an inspiring invited lecture to our research group members and undergraduate students, fostering academic exchange and future research collaboration.
 </p>
 
-</div>
-
 
 <!-- ================================================== -->
 <!-- Gallery Item - International Collaboration Foshan  -->
