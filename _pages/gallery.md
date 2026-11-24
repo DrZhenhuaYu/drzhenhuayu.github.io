@@ -10,6 +10,82 @@ author_profile: true
 <div style="font-size:0.88em; line-height:1.40;">
 
 
+
+
+
+
+<!-- ================================================== -->
+<!-- Gallery Item - Research and Industry Visit Foshan  -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<!-- Date -->
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+Nov 2026
+</p>
+
+<!-- Two Images in One Row -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:12px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/20261104.jpg"
+     alt="Zhenhua presenting research activities of the Aberdeen-SCNU Joint Robotics Laboratory"
+     loading="lazy"
+     style="
+         width:46%;
+         aspect-ratio:4/3;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+     ">
+
+<img src="/images/gallery/20261105.jpg"
+     alt="Industry visit to local enterprises in Foshan"
+     loading="lazy"
+     style="
+         width:46%;
+         aspect-ratio:4/3;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+     ">
+
+</div>
+
+<!-- Title -->
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Research Presentation and Industry Visits in Foshan
+</p>
+
+<!-- Description -->
+<p style="margin:0;">
+Representing the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b>, Zhenhua delivered a research presentation to representatives of the <b>Nanhai District Government</b> and local enterprises in <b>Foshan, China</b>, introducing the laboratory's research activities, capabilities, and future development plans. He also visited local companies to explore opportunities for <b>university–industry collaboration, technology transfer, and joint research</b> in robotics, artificial intelligence, and intelligent sensing.
+</p>
+
+</div>
+
+
+
+
+
 <!-- ================================================== -->
 <!-- Gallery Item - Prof. Thrishantha Nanayakkara Visit -->
 <!-- ================================================== -->
