@@ -14,6 +14,40 @@ author_profile: true
 
 
 
+<p style="margin:0 0 10px 0;">
+<b>[MM/2026]</b> [Invited Lecture] Zhenhua was invited to deliver an <b>opening lecture for incoming students</b> at the <b>Inspur School of Artificial Intelligence, Shandong University</b>. During his visit, he also toured the university's School of Artificial Intelligence and engaged in academic exchanges with faculty members.
+</p>
+
+
+<p style="margin:0 0 10px 0;">
+<b>[11/2026]</b> [Academic Visit] Zhenhua welcomed <b>Prof. Thrishantha Nanayakkara</b> from Imperial College London to the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b> in Foshan, China. During his visit, Prof. Nanayakkara delivered an invited lecture and engaged in academic discussions and research exchanges with faculty members and students.
+</p>
+
+<p style="margin:0 0 10px 0;">
+<b>[11/2026]</b> [Industry Collaboration] Zhenhua participated in an <b>industry–academia collaboration event</b> in Nanhai District, Foshan, China, engaging with local enterprises and exploring opportunities for research collaboration and technology transfer in robotics, artificial intelligence, and intelligent sensing.
+</p>
+
+
+<p style="margin:0 0 10px 0;">
+<b>[10/2026]</b> [Invited Seminar] The <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b> hosted its inaugural academic seminar, featuring an invited talk by <b>Prof. Bo Xiao</b> from <b>Xi'an Jiaotong-Liverpool University</b>, marking the launch of the laboratory's academic seminar series.
+</p>
+
+<p style="margin:0 0 10px 0;">
+<b>[10/2026]</b> [Academic Service] Zhenhua was invited to serve as an <b>Area Chair</b> for <b>Robotics: Science and Systems (RSS 2027)</b>, an international conference in robotics.
+</p>
+
+<p style="margin:0 0 10px 0;">
+<b>[9/2026]</b> [Collaboration] Zhenhua represented the <b>University of Aberdeen</b> in a high-level talent exchange meeting with the <b>Nanhai District Talent Affairs Bureau, Foshan, China</b>, exploring opportunities for international talent development, university–government collaboration, and research partnerships.
+</p>
+
+
+<p style="margin:0 0 10px 0;">
+<b>[10/2026]</b> [Academic Leadership] Zhenhua was appointed as the <b>Postgraduate Research (PGR) Lead</b> for the <b>Aberdeen–SCNU Joint Institute</b>, overseeing PhD recruitment, doctoral assessment, and supervisory arrangements.
+</p>
+
+<p style="margin:0 0 10px 0;">
+<b>[9/2026]</b> [International Collaboration] Zhenhua joined an <b>official delegation from the University of Aberdeen</b> visiting <b>South China Normal University</b> in Foshan, China, to discuss new opportunities for international academic collaboration, joint research, and institutional partnerships.
+</p>
 
 <p style="margin-top:0; margin-bottom:10px;">
 <b>[8/2026]</b> [News] Zhenhua was invited to serve as a <b>Guest Editor</b> for the MDPI <i>Biomimetics</i> Special Issue, <b>“Advances in Bio-Inspired Intelligent Robot”</b>.</p>
