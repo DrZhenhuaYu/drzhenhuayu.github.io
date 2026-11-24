@@ -10,6 +10,66 @@ author_profile: true
 <div style="font-size:0.88em; line-height:1.40;">
 
 
+<!-- ================================================== -->
+<!-- Gallery Item - Prof. Thrishantha Nanayakkara Visit -->
+<!-- ================================================== -->
+
+<div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
+
+<!-- Date -->
+<p style="
+    text-align:left;
+    font-size:1.05em;
+    font-weight:700;
+    color:#4f5458;
+    margin:0 0 5px 0;
+    line-height:1.2;
+">
+Nov 2026
+</p>
+
+<!-- Three Images in One Row -->
+<div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    margin:0 0 10px 0;
+">
+
+<img src="/images/gallery/20261101.jpg"
+     alt="Prof. Thrishantha Nanayakkara visiting the Foshan Joint Robotics Laboratory"
+     loading="lazy"
+     style="width:32%; height:auto; display:block;">
+
+<img src="/images/gallery/20261102.jpg"
+     alt="Research discussions with Prof. Thrishantha Nanayakkara"
+     loading="lazy"
+     style="width:32%; height:auto; display:block;">
+
+<img src="/images/gallery/20261103.jpg"
+     alt="Invited lecture by Prof. Thrishantha Nanayakkara"
+     loading="lazy"
+     style="width:32%; height:auto; display:block;">
+
+</div>
+
+<!-- Title -->
+<p style="
+    text-align:center;
+    font-weight:bold;
+    font-size:1.05em;
+    margin:0 0 8px 0;
+">
+Welcoming Prof. Thrishantha Nanayakkara from Imperial College London to visit the Joint Robotics Laboratory
+
+<!-- Description -->
+<p style="margin:0;">
+It was a great pleasure to welcome <b>Prof. Thrishantha Nanayakkara</b> from <b>Imperial College London</b>, Zhenhua's PhD supervisor, to the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b> in Foshan, China. During his visit, Prof. Nanayakkara toured the laboratory, engaged in research discussions, and delivered an inspiring invited lecture to our research group members and undergraduate students, fostering academic exchange and future research collaboration.
+</p>
+
+</div>
+
 
 <!-- ================================================== -->
 <!-- Gallery Item - International Collaboration Foshan  -->
