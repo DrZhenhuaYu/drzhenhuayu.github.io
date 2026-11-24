@@ -41,7 +41,7 @@ Nov 2026
     margin:0 0 10px 0;
 ">
 
-<img src="/images/gallery/20261104.jpg"
+<img src="/images/gallery/20261106.jpg"
      alt="Zhenhua presenting research activities of the Aberdeen-SCNU Joint Robotics Laboratory"
      loading="lazy"
      style="
