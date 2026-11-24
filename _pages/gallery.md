@@ -12,7 +12,7 @@ author_profile: true
 
 
 <!-- ================================================== -->
-<!-- Gallery Item - University of Aberdeen Delegation   -->
+<!-- Gallery Item - International Collaboration Foshan  -->
 <!-- ================================================== -->
 
 <div style="background:#eeeeee; padding:10px 26px 18px 26px; margin-bottom:20px;">
@@ -38,23 +38,25 @@ Sep 2026
     margin:0 0 10px 0;
 ">
 
+<!-- University of Aberdeen Delegation -->
 <img src="/images/gallery/20260901.png"
-     alt="University of Aberdeen Delegation Visit - Photo 1"
+     alt="University of Aberdeen delegation visiting South China Normal University"
      loading="lazy"
      style="width:24%; height:auto; display:block;">
 
 <img src="/images/gallery/20260902.png"
-     alt="University of Aberdeen Delegation Visit - Photo 2"
+     alt="Discussions on new joint laboratory development"
      loading="lazy"
      style="width:24%; height:auto; display:block;">
 
+<!-- Nanhai District Talent Affairs Bureau -->
 <img src="/images/gallery/20260903.png"
-     alt="University of Aberdeen Delegation Visit - Photo 3"
+     alt="University of Aberdeen representative meeting with Nanhai District Talent Affairs Bureau"
      loading="lazy"
      style="width:24%; height:auto; display:block;">
 
 <img src="/images/gallery/20260904.png"
-     alt="University of Aberdeen Delegation Visit - Photo 4"
+     alt="University-government collaboration and industry-academia exchange in Foshan"
      loading="lazy"
      style="width:24%; height:auto; display:block;">
 
@@ -67,16 +69,19 @@ Sep 2026
     font-size:1.05em;
     margin:0 0 8px 0;
 ">
-University of Aberdeen Delegation Visit to South China Normal University
+International Research and University–Government Collaboration in Foshan
 </p>
 
-<!-- Description -->
+<!-- Description - University Collaboration -->
 <p style="margin:0 0 7px 0;">
-In September 2026, Zhenhua joined an <b>official delegation from the University of Aberdeen</b> visiting <b>South China Normal University</b> in Foshan, China, to discuss new opportunities for international academic collaboration, joint research, and institutional partnerships.
+<b>University Collaboration:</b>
+Zhenhua joined an <b>official delegation from the University of Aberdeen</b> visiting <b>South China Normal University</b> in Foshan, China, to discuss the establishment of new joint research laboratories and opportunities for international academic collaboration.
 </p>
 
+<!-- Description - Government Collaboration -->
 <p style="margin:0;">
-The visit also supported further discussions on the development of the <b>Aberdeen–SCNU Joint Laboratory for Multimodal Intelligent Robotics</b>, strengthening research collaboration, academic exchanges, and joint talent development between the two universities.
+<b>University–Government Collaboration:</b>
+Representing the <b>University of Aberdeen</b>, Zhenhua also participated in discussions with the <b>Nanhai District Talent Affairs Bureau</b> in Foshan, exploring opportunities for university–government partnerships, industry–academia–research collaboration, and international talent development.
 </p>
 
 </div>
